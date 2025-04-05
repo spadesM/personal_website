@@ -76,7 +76,8 @@ def run_pipeline():
                 with open('title.basics.tsv', 'wb') as f_out:
                     shutil.copyfileobj(f_in, f_out)
             df = pd.read_csv('title.basics.tsv', sep='\t', na_values='\\N')
-
+            os.remove('title.basics.tsv')
+            os.remove('title.basics.tsv.gz')
             # Step 2 - Download ratings
             write_step_status("📥 Downloading IMDb ratings data...")
             status.write("📥 Downloading IMDb ratings data...")
@@ -87,7 +88,8 @@ def run_pipeline():
                 with open('title.ratings.tsv', 'wb') as f_out:
                     shutil.copyfileobj(f_in, f_out)
             ratings = pd.read_csv("title.ratings.tsv", sep="\t", na_values="\\N")
-
+            os.remove('title.ratings.tsv')
+            os.remove('title.ratings.tsv.gz')
             # Step 3 - Merge & Filter
             write_step_status("🔗 Merging and filtering movie data...")
             status.write("🔗 Merging and filtering movie data...")
