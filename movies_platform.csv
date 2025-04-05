@@ -1,0 +1,855 @@
+tconst,titleType,originalTitle,startYear,genres,averageRating,numVotes,m_rating,Streaming
+tt0013442,movie,"Nosferatu, eine Symphonie des Grauens",1922.0,"Fantasy,Horror",7.8,118298.0,0.0,"Cultpix,JustWatchTV"
+tt0031381,movie,Gone with the Wind,1939.0,"Drama,Romance,War",8.2,345117.0,0.0,"Apple TV,Apple TV"
+tt0032138,movie,The Wizard of Oz,1939.0,"Adventure,Family,Fantasy",8.1,448609.0,0.0,"Apple TV,Apple TV"
+tt0032455,movie,Fantasia,1940.0,"Animation,Family,Fantasy",7.7,107552.0,0.0,Disney Plus
+tt0032910,movie,Pinocchio,1940.0,"Adventure,Animation,Comedy",7.5,165985.0,0.0,Netflix
+tt0033563,movie,Dumbo,1941.0,"Adventure,Animation,Drama",7.2,146605.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0034492,movie,Bambi,1942.0,"Adventure,Animation,Drama",7.3,159369.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0040746,movie,Rope,1948.0,"Crime,Drama,Mystery",7.9,159928.0,0.0,"Apple TV,Apple TV"
+tt0040897,movie,The Treasure of the Sierra Madre,1948.0,"Adventure,Drama,Western",8.2,136862.0,0.0,"Apple TV,Apple TV"
+tt0042332,movie,Cinderella,1950.0,"Animation,Family,Fantasy",7.3,180325.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0043274,movie,Alice in Wonderland,1951.0,"Adventure,Animation,Comedy",7.3,159991.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0046183,movie,Peter Pan,1953.0,"Adventure,Animation,Family",7.3,159091.0,0.0,Apple TV
+tt0046250,movie,Roman Holiday,1953.0,"Comedy,Drama,Romance",8.0,152083.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0048280,movie,Lady and the Tramp,1955.0,"Adventure,Animation,Comedy",7.3,154797.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0048545,movie,Rebel Without a Cause,1955.0,Drama,7.6,100543.0,0.0,"Apple TV,Apple TV"
+tt0050212,movie,The Bridge on the River Kwai,1957.0,"Adventure,Drama,War",8.1,240877.0,0.0,"Apple TV,Apple TV"
+tt0052618,movie,Ben-Hur,1959.0,"Adventure,Drama",8.1,261929.0,0.0,"Apple TV,Apple TV"
+tt0054047,movie,The Magnificent Seven,1960.0,"Action,Adventure,Drama",7.7,106289.0,0.0,"Apple TV,Apple TV"
+tt0054698,movie,Breakfast at Tiffany's,1961.0,"Comedy,Drama,Romance",7.5,198021.0,0.0,"Apple TV,Apple TV"
+tt0055254,movie,One Hundred and One Dalmatians,1961.0,"Adventure,Animation,Comedy",7.3,189075.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0055614,movie,West Side Story,1961.0,"Crime,Drama,Musical",7.6,124399.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt0055928,movie,Dr. No,1962.0,"Action,Adventure,Thriller",7.2,185459.0,0.0,"Apple TV,Apple TV"
+tt0056869,movie,The Birds,1963.0,"Drama,Horror,Mystery",7.6,212272.0,0.0,"Apple TV,Apple TV"
+tt0057076,movie,From Russia with Love,1963.0,"Action,Adventure,Thriller",7.3,150492.0,0.0,"Apple TV,Apple TV"
+tt0057115,movie,The Great Escape,1963.0,"Adventure,Drama,Thriller",8.2,267223.0,0.0,Amazon Prime Video
+tt0057546,movie,The Sword in the Stone,1963.0,"Adventure,Animation,Comedy",7.1,110152.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0058150,movie,Goldfinger,1964.0,"Action,Adventure,Thriller",7.7,208590.0,0.0,"Apple TV,Apple TV"
+tt0058331,movie,Mary Poppins,1964.0,"Comedy,Family,Fantasy",7.8,192180.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0059742,movie,The Sound of Music,1965.0,"Biography,Drama,Family",8.1,274551.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0059800,movie,Thunderball,1965.0,"Action,Adventure,Thriller",6.9,131194.0,0.0,"Apple TV,Apple TV"
+tt0061418,movie,Bonnie and Clyde,1967.0,"Action,Biography,Crime",7.7,124338.0,0.0,"blutv,Apple TV,Apple TV"
+tt0061852,movie,The Jungle Book,1967.0,"Adventure,Animation,Comedy",7.6,205645.0,0.0,"Disney Plus,Apple TV"
+tt0062512,movie,You Only Live Twice,1967.0,"Action,Adventure,Thriller",6.8,121425.0,0.0,"Apple TV,Apple TV"
+tt0063350,movie,Night of the Living Dead,1968.0,"Horror,Thriller",7.8,144843.0,0.0,"Cultpix,JustWatchTV"
+tt0064115,movie,Butch Cassidy and the Sundance Kid,1969.0,"Biography,Crime,Drama",8.0,231730.0,0.0,Disney Plus
+tt0064276,movie,Easy Rider,1969.0,"Adventure,Drama",7.2,120217.0,0.0,"Apple TV,Apple TV"
+tt0064665,movie,Midnight Cowboy,1969.0,Drama,7.8,126159.0,0.0,blutv
+tt0064757,movie,On Her Majesty's Secret Service,1969.0,"Action,Adventure,Thriller",6.7,103151.0,0.0,"Apple TV,Apple TV"
+tt0065421,movie,The AristoCats,1970.0,"Adventure,Animation,Comedy",7.1,119584.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0066206,movie,Patton,1970.0,"Biography,Drama,War",7.9,110876.0,0.0,Disney Plus
+tt0066995,movie,Diamonds Are Forever,1971.0,"Action,Adventure,Thriller",6.5,117814.0,0.0,"Apple TV,Apple TV"
+tt0066999,movie,Dirty Harry,1971.0,"Action,Crime,Thriller",7.7,174374.0,0.0,"Apple TV,Apple TV"
+tt0067116,movie,The French Connection,1971.0,"Action,Crime,Drama",7.7,143868.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0067992,movie,Willy Wonka & the Chocolate Factory,1971.0,"Adventure,Comedy,Family",7.8,236080.0,0.0,Apple TV
+tt0069704,movie,American Graffiti,1973.0,"Comedy,Drama",7.4,101760.0,0.0,"Apple TV,Apple TV"
+tt0070034,movie,Enter the Dragon,1973.0,"Action,Crime,Thriller",7.6,116327.0,0.0,"Apple TV,Apple TV"
+tt0070328,movie,Live and Let Die,1973.0,"Action,Adventure,Thriller",6.7,119286.0,0.0,"Apple TV,Apple TV"
+tt0070608,movie,Robin Hood,1973.0,"Adventure,Animation,Comedy",7.5,144106.0,0.0,Amazon Prime Video
+tt0071230,movie,Blazing Saddles,1974.0,"Comedy,Western",7.7,158032.0,0.0,"Apple TV,Apple TV"
+tt0071807,movie,The Man with the Golden Gun,1974.0,"Action,Adventure,Thriller",6.7,116691.0,0.0,"Apple TV,Apple TV"
+tt0072684,movie,Barry Lyndon,1975.0,"Adventure,Drama,War",8.1,192131.0,0.0,"Apple TV,Apple TV"
+tt0072890,movie,Dog Day Afternoon,1975.0,"Biography,Crime,Drama",8.0,281045.0,0.0,"Apple TV,Apple TV"
+tt0073629,movie,The Rocky Horror Picture Show,1975.0,"Comedy,Horror,Musical",7.4,174308.0,0.0,Disney Plus
+tt0074119,movie,All the President's Men,1976.0,"Drama,History,Thriller",7.9,130721.0,0.0,"Apple TV,Apple TV"
+tt0074285,movie,Carrie,1976.0,"Horror,Mystery",7.4,217137.0,0.0,"Apple TV,Apple TV"
+tt0074486,movie,Eraserhead,1977.0,"Fantasy,Horror",7.3,136218.0,0.0,MUBI
+tt0074958,movie,Network,1976.0,Drama,8.1,178375.0,0.0,Amazon Prime Video
+tt0075005,movie,The Omen,1976.0,"Horror,Mystery",7.5,140714.0,0.0,Disney Plus
+tt0076752,movie,The Spy Who Loved Me,1977.0,"Action,Adventure,Thriller",7.0,119926.0,0.0,"Apple TV,Apple TV"
+tt0076786,movie,Suspiria,1977.0,Horror,7.3,111399.0,0.0,Apple TV
+tt0077631,movie,Grease,1978.0,"Comedy,Musical,Romance",7.2,313092.0,0.0,"Apple TV,Apple TV"
+tt0077651,movie,Halloween,1978.0,"Horror,Thriller",7.7,322215.0,0.0,Cultpix
+tt0079116,movie,Escape from Alcatraz,1979.0,"Biography,Crime,Drama",7.6,154777.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0079417,movie,Kramer vs. Kramer,1979.0,Drama,7.8,160310.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt0079501,movie,Mad Max,1979.0,"Action,Adventure,Sci-Fi",6.8,237661.0,0.0,"Netflix,blutv,Apple TV,Apple TV"
+tt0079522,movie,Manhattan,1979.0,"Comedy,Drama,Romance",7.8,150425.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0080120,movie,The Warriors,1979.0,"Action,Crime,Thriller",7.5,115086.0,0.0,"Apple TV,Apple TV"
+tt0080339,movie,Airplane!,1980.0,Comedy,7.7,272294.0,0.0,"Apple TV,Apple TV"
+tt0080455,movie,The Blues Brothers,1980.0,"Adventure,Comedy,Crime",7.9,221234.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt0082010,movie,An American Werewolf in London,1981.0,"Comedy,Horror",7.5,127914.0,0.0,Apple TV
+tt0082198,movie,Conan the Barbarian,1982.0,"Adventure,Fantasy",6.9,167690.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0082398,movie,For Your Eyes Only,1981.0,"Action,Adventure,Thriller",6.7,111625.0,0.0,"Apple TV,Apple TV"
+tt0082406,movie,The Fox and the Hound,1981.0,"Adventure,Animation,Drama",7.2,105965.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0083907,movie,The Evil Dead,1981.0,Horror,7.4,241723.0,0.0,"Netflix,TV+,Apple TV,Apple TV"
+tt0083929,movie,Fast Times at Ridgemont High,1982.0,"Comedy,Drama",7.1,120281.0,0.0,"Apple TV,Apple TV"
+tt0084516,movie,Poltergeist,1982.0,"Horror,Thriller",7.3,187448.0,0.0,"Apple TV,Apple TV"
+tt0084805,movie,Tootsie,1982.0,"Comedy,Drama,Romance",7.4,118327.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt0084827,movie,Tron,1982.0,"Action,Adventure,Sci-Fi",6.7,132934.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0085959,movie,The Meaning of Life,1983.0,"Comedy,Musical",7.5,127484.0,0.0,"Apple TV,Apple TV"
+tt0085995,movie,National Lampoon's Vacation,1983.0,"Adventure,Comedy",7.3,124050.0,0.0,"Apple TV,Apple TV"
+tt0086034,movie,Octopussy,1983.0,"Action,Adventure,Thriller",6.5,116353.0,0.0,"Apple TV,Apple TV"
+tt0086200,movie,Risky Business,1983.0,"Comedy,Crime,Drama",6.8,103868.0,0.0,"Apple TV,Apple TV"
+tt0086541,movie,Videodrome,1983.0,"Drama,Horror,Sci-Fi",7.2,108116.0,0.0,"Apple TV,Apple TV"
+tt0086567,movie,WarGames,1983.0,"Action,Drama,Sci-Fi",7.1,115928.0,0.0,Amazon Prime Video
+tt0087800,movie,A Nightmare on Elm Street,1984.0,Horror,7.4,276495.0,0.0,"Apple TV,Apple TV"
+tt0087884,movie,"Paris, Texas",1984.0,Drama,8.1,130471.0,0.0,MUBI
+tt0087928,movie,Police Academy,1984.0,Comedy,6.7,143165.0,0.0,"Apple TV,Apple TV"
+tt0088128,movie,Sixteen Candles,1984.0,"Comedy,Romance",7.0,131141.0,0.0,"Apple TV,Apple TV"
+tt0088323,movie,The Neverending Story,1984.0,"Adventure,Drama,Family",7.3,163363.0,0.0,"Apple TV,Apple TV"
+tt0088847,movie,The Breakfast Club,1985.0,"Comedy,Drama",7.8,454535.0,0.0,"Apple TV,Apple TV"
+tt0088939,movie,The Color Purple,1985.0,Drama,7.7,100609.0,0.0,blutv
+tt0088944,movie,Commando,1985.0,"Action,Adventure,Thriller",6.7,180973.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0089218,movie,The Goonies,1985.0,"Adventure,Comedy,Family",7.7,311295.0,0.0,"Apple TV,Apple TV"
+tt0090728,movie,Big Trouble in Little China,1986.0,"Action,Adventure,Comedy",7.2,160166.0,0.0,"Apple TV,Apple TV"
+tt0091763,movie,Platoon,1986.0,"Drama,War",8.1,454236.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt0092067,movie,Tenkû no shiro Rapyuta,1986.0,"Adventure,Animation,Family",8.0,190073.0,0.0,Netflix
+tt0092890,movie,Dirty Dancing,1987.0,"Drama,Music,Romance",7.1,268217.0,0.0,"Apple TV,Apple TV"
+tt0092965,movie,Empire of the Sun,1987.0,"Drama,War",7.7,138092.0,0.0,"Apple TV,Apple TV"
+tt0093105,movie,"Good Morning, Vietnam",1987.0,"Biography,Comedy,Drama",7.3,159427.0,0.0,Disney Plus
+tt0093389,movie,The Last Emperor,1987.0,"Biography,Drama,History",7.7,115485.0,0.0,"TV+,Apple TV"
+tt0093428,movie,The Living Daylights,1987.0,"Action,Adventure,Thriller",6.7,109584.0,0.0,"Apple TV,Apple TV"
+tt0093437,movie,The Lost Boys,1987.0,"Comedy,Horror",7.2,168996.0,0.0,"Apple TV,Apple TV"
+tt0093748,movie,"Planes, Trains & Automobiles",1987.0,"Comedy,Drama",7.6,169601.0,0.0,"Apple TV,Apple TV"
+tt0093773,movie,Predator,1987.0,"Action,Adventure,Horror",7.8,474738.0,0.0,"Disney Plus,Netflix,Apple TV,Apple TV"
+tt0094012,movie,Spaceballs,1987.0,"Adventure,Comedy,Sci-Fi",7.1,214270.0,0.0,"Apple TV,Apple TV"
+tt0094226,movie,The Untouchables,1987.0,"Crime,Drama,Thriller",7.8,341910.0,0.0,"Apple TV,Apple TV"
+tt0094737,movie,Big,1988.0,"Comedy,Drama,Fantasy",7.3,249323.0,0.0,Disney Plus
+tt0094898,movie,Coming to America,1988.0,"Comedy,Romance",7.1,231608.0,0.0,"Apple TV,Apple TV"
+tt0095159,movie,A Fish Called Wanda,1988.0,"Comedy,Crime",7.5,159447.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt0095489,movie,The Land Before Time,1988.0,"Adventure,Animation,Drama",7.4,102753.0,0.0,"Apple TV,Apple TV"
+tt0095647,movie,Mississippi Burning,1988.0,"Crime,Drama,Mystery",7.8,120069.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt0096438,movie,Who Framed Roger Rabbit,1988.0,"Adventure,Animation,Comedy",7.7,224788.0,0.0,Disney Plus
+tt0096446,movie,Willow,1988.0,"Action,Adventure,Drama",7.2,133735.0,0.0,Disney Plus
+tt0096969,movie,Born on the Fourth of July,1989.0,"Biography,Drama,War",7.2,119908.0,0.0,"Apple TV,Apple TV"
+tt0097351,movie,Field of Dreams,1989.0,"Drama,Family,Fantasy",7.5,133391.0,0.0,"Apple TV,Apple TV"
+tt0097441,movie,Glory,1989.0,"Biography,Drama,History",7.8,148831.0,0.0,"Apple TV,Apple TV"
+tt0097742,movie,Licence to Kill,1989.0,"Action,Adventure,Thriller",6.7,115543.0,0.0,"Apple TV,Apple TV"
+tt0097757,movie,The Little Mermaid,1989.0,"Adventure,Animation,Family",7.6,300990.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0097814,movie,Majo no takkyûbin,1989.0,"Animation,Family,Fantasy",7.8,176069.0,0.0,Netflix
+tt0097958,movie,National Lampoon's Christmas Vacation,1989.0,Comedy,7.5,234498.0,0.0,"Apple TV,Apple TV"
+tt0098084,movie,Pet Sematary,1989.0,"Fantasy,Horror,Thriller",6.5,119286.0,0.0,"Apple TV,Apple TV"
+tt0098206,movie,Road House,1989.0,"Action,Thriller",6.7,106708.0,0.0,"Amazon Prime Video,Apple TV"
+tt0098554,movie,Uncle Buck,1989.0,Comedy,7.1,113794.0,0.0,"Apple TV,Apple TV"
+tt0098635,movie,When Harry Met Sally...,1989.0,"Comedy,Drama,Romance",7.7,254417.0,0.0,Amazon Prime Video
+tt0099487,movie,Edward Scissorhands,1990.0,"Drama,Fantasy,Romance",7.9,544425.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0099653,movie,Ghost,1990.0,"Drama,Fantasy,Romance",7.1,247018.0,0.0,"Apple TV,Apple TV"
+tt0099810,movie,The Hunt for Red October,1990.0,"Action,Adventure,Thriller",7.5,222079.0,0.0,"Apple TV,Apple TV"
+tt0100150,movie,Miller's Crossing,1990.0,"Crime,Drama,Thriller",7.7,145553.0,0.0,Apple TV
+tt0100157,movie,Misery,1990.0,"Drama,Thriller",7.8,248787.0,0.0,Amazon Prime Video
+tt0100405,movie,Pretty Woman,1990.0,"Comedy,Romance",7.1,384004.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0100758,movie,Teenage Mutant Ninja Turtles,1990.0,"Action,Adventure,Comedy",6.8,108188.0,0.0,"Apple TV,Apple TV"
+tt0101272,movie,The Addams Family,1991.0,"Comedy,Fantasy",6.9,190444.0,0.0,Netflix
+tt0101410,movie,Barton Fink,1991.0,"Comedy,Drama,Thriller",7.6,132089.0,0.0,"Apple TV,Apple TV"
+tt0101507,movie,Boyz n the Hood,1991.0,"Crime,Drama",7.8,161503.0,0.0,Netflix
+tt0101540,movie,Cape Fear,1991.0,"Crime,Thriller",7.3,225862.0,0.0,"Apple TV,Apple TV"
+tt0102059,movie,Hot Shots!,1991.0,"Action,Comedy",6.7,120338.0,0.0,Disney Plus
+tt0102685,movie,Point Break,1991.0,"Action,Crime,Thriller",7.3,212717.0,0.0,"Apple TV,Apple TV"
+tt0102798,movie,Robin Hood: Prince of Thieves,1991.0,"Action,Adventure,Drama",6.9,215140.0,0.0,Amazon Prime Video
+tt0103074,movie,Thelma & Louise,1991.0,"Adventure,Crime,Drama",7.6,182581.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt0103639,movie,Aladdin,1992.0,"Adventure,Animation,Comedy",8.0,484921.0,0.0,"Disney Plus,Apple TV"
+tt0103772,movie,Basic Instinct,1992.0,"Drama,Mystery,Thriller",7.1,230626.0,0.0,Netflix
+tt0103874,movie,Bram Stoker's Dracula,1992.0,"Fantasy,Horror,Romance",7.4,254887.0,0.0,"TV+,Apple TV,Apple TV"
+tt0103919,movie,Candyman,1992.0,"Horror,Thriller",6.7,104822.0,0.0,Amazon Prime Video
+tt0104257,movie,A Few Good Men,1992.0,"Drama,Thriller",7.7,300769.0,0.0,"Apple TV,Apple TV"
+tt0104652,movie,Kurenai no buta,1992.0,"Adventure,Animation,Comedy",7.7,108727.0,0.0,Netflix
+tt0104691,movie,The Last of the Mohicans,1992.0,"Action,Adventure,Drama",7.6,196326.0,0.0,Netflix
+tt0104952,movie,My Cousin Vinny,1992.0,"Comedy,Crime",7.6,148894.0,0.0,"Apple TV,Apple TV"
+tt0105112,movie,Patriot Games,1992.0,"Action,Thriller",6.8,124275.0,0.0,"Apple TV,Apple TV"
+tt0105323,movie,Scent of a Woman,1992.0,Drama,8.0,348539.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0105417,movie,Sister Act,1992.0,"Comedy,Family,Music",6.5,113071.0,0.0,Disney Plus
+tt0105665,movie,Twin Peaks: Fire Walk with Me,1992.0,"Drama,Horror,Mystery",7.3,111885.0,0.0,MUBI
+tt0105812,movie,White Men Can't Jump,1992.0,"Comedy,Sport",6.8,101722.0,0.0,Disney Plus
+tt0106220,movie,Addams Family Values,1993.0,"Comedy,Fantasy",6.8,116496.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0106308,movie,Army of Darkness,1992.0,"Comedy,Horror",7.4,201485.0,0.0,Amazon Prime Video
+tt0106519,movie,Carlito's Way,1993.0,"Crime,Drama,Thriller",7.9,239296.0,0.0,"Apple TV,Apple TV"
+tt0106611,movie,Cool Runnings,1993.0,"Adventure,Comedy,Family",7.0,117619.0,0.0,Disney Plus
+tt0106977,movie,The Fugitive,1993.0,"Action,Crime,Drama",7.8,331770.0,0.0,"Apple TV,Apple TV"
+tt0107120,movie,Hocus Pocus,1993.0,"Comedy,Family,Fantasy",6.9,164053.0,0.0,Disney Plus
+tt0107144,movie,Hot Shots! Part Deux,1993.0,"Action,Comedy",6.6,100294.0,0.0,"Disney Plus,Apple TV"
+tt0107206,movie,In the Line of Fire,1993.0,"Action,Crime,Drama",7.2,117993.0,0.0,"Amazon Prime Video,TV+,Apple TV,Apple TV"
+tt0107362,movie,Last Action Hero,1993.0,"Action,Adventure,Comedy",6.5,168789.0,0.0,"Apple TV,Apple TV"
+tt0107614,movie,Mrs. Doubtfire,1993.0,"Comedy,Drama",7.1,303217.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0107688,movie,The Nightmare Before Christmas,1993.0,"Animation,Family,Fantasy",7.9,394085.0,0.0,Disney Plus
+tt0107818,movie,Philadelphia,1993.0,Drama,7.7,266077.0,0.0,Disney Plus
+tt0108037,movie,The Sandlot,1993.0,"Comedy,Drama,Family",7.8,107861.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0108160,movie,Sleepless in Seattle,1993.0,"Comedy,Drama,Romance",6.8,197985.0,0.0,"Amazon Prime Video,TV+,Apple TV,Apple TV"
+tt0108358,movie,Tombstone,1993.0,"Biography,Drama,History",7.8,176364.0,0.0,Disney Plus
+tt0108394,movie,Trois couleurs: Bleu,1993.0,"Drama,Music,Mystery",7.8,114748.0,0.0,"MUBI,Apple TV"
+tt0109040,movie,Ace Ventura: Pet Detective,1994.0,Comedy,6.9,338224.0,0.0,"Netflix,Apple TV"
+tt0109444,movie,Clear and Present Danger,1994.0,"Action,Crime,Drama",6.9,111775.0,0.0,"Apple TV,Apple TV"
+tt0109506,movie,The Crow,1994.0,"Action,Crime,Drama",7.5,221313.0,0.0,Amazon Prime Video
+tt0109707,movie,Ed Wood,1994.0,"Biography,Comedy,Drama",7.8,187879.0,0.0,Disney Plus
+tt0109831,movie,Four Weddings and a Funeral,1994.0,"Comedy,Drama,Romance",7.1,173144.0,0.0,blutv
+tt0110148,movie,Interview with the Vampire: The Vampire Chronicles,1994.0,"Drama,Fantasy,Horror",7.5,361219.0,0.0,"Apple TV,Apple TV"
+tt0110322,movie,Legends of the Fall,1994.0,"Drama,Romance,War",7.5,190655.0,0.0,"Apple TV,Apple TV"
+tt0110632,movie,Natural Born Killers,1994.0,"Crime,Romance",7.2,259358.0,0.0,"Disney Plus,Apple TV"
+tt0111070,movie,The Santa Clause,1994.0,"Comedy,Drama,Family",6.6,140549.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0111257,movie,Speed,1994.0,"Action,Adventure,Thriller",7.3,406718.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0111495,movie,Trois couleurs : Rouge,1994.0,"Drama,Mystery,Romance",8.1,113480.0,0.0,"MUBI,Apple TV"
+tt0111503,movie,True Lies,1994.0,"Action,Comedy,Thriller",7.3,290578.0,0.0,"Apple TV,Apple TV"
+tt0112384,movie,Apollo 13,1995.0,"Adventure,Drama,History",7.7,325268.0,0.0,"Apple TV,Apple TV"
+tt0112431,movie,Babe,1995.0,"Comedy,Drama,Family",6.9,138227.0,0.0,"Apple TV,Apple TV"
+tt0112697,movie,Clueless,1995.0,"Comedy,Romance",6.9,261080.0,0.0,"Apple TV,Apple TV"
+tt0112740,movie,Crimson Tide,1995.0,"Action,Drama,Thriller",7.4,129716.0,0.0,Disney Plus
+tt0112817,movie,Dead Man,1995.0,"Adventure,Drama,Western",7.5,105803.0,0.0,"MUBI,TV+"
+tt0112851,movie,Desperado,1995.0,"Action,Crime,Drama",7.1,202736.0,0.0,"Apple TV,Apple TV"
+tt0112864,movie,Die Hard with a Vengeance,1995.0,"Action,Adventure,Thriller",7.6,419317.0,0.0,Disney Plus
+tt0113101,movie,Four Rooms,1995.0,Comedy,6.7,113858.0,0.0,ERROR:429
+tt0113189,movie,GoldenEye,1995.0,"Action,Adventure,Thriller",7.2,276728.0,0.0,"Apple TV,Apple TV"
+tt0113247,movie,La haine,1995.0,"Crime,Drama",8.1,210034.0,0.0,MUBI
+tt0113568,movie,Kôkaku Kidôtai,1995.0,"Action,Animation,Crime",7.9,164252.0,0.0,"Apple TV,Apple TV"
+tt0113749,movie,Mallrats,1995.0,"Comedy,Romance",7.0,131268.0,0.0,"Apple TV,Apple TV"
+tt0114069,movie,Outbreak,1995.0,"Action,Drama,Thriller",6.6,141879.0,0.0,Apple TV
+tt0114148,movie,Pocahontas,1995.0,"Adventure,Animation,Drama",6.7,209946.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0114388,movie,Sense and Sensibility,1995.0,"Drama,Romance",7.7,130931.0,0.0,"Apple TV,Apple TV"
+tt0114694,movie,Tommy Boy,1995.0,"Adventure,Comedy",7.1,100910.0,0.0,"Apple TV,Apple TV"
+tt0114924,movie,While You Were Sleeping,1995.0,"Comedy,Drama,Romance",6.8,119816.0,0.0,ERROR:429
+tt0115685,movie,The Birdcage,1996.0,Comedy,7.2,107095.0,0.0,ERROR:429
+tt0115963,movie,The Craft,1996.0,"Drama,Fantasy,Horror",6.5,114039.0,0.0,"Apple TV,Apple TV"
+tt0116209,movie,The English Patient,1996.0,"Drama,Romance,War",7.4,208234.0,0.0,"Apple TV,Apple TV"
+tt0116367,movie,From Dusk Till Dawn,1996.0,"Action,Crime,Horror",7.2,353335.0,0.0,"Apple TV,Apple TV"
+tt0116483,movie,Happy Gilmore,1996.0,"Comedy,Sport",7.0,261580.0,0.0,"Apple TV,Apple TV"
+tt0116583,movie,The Hunchback of Notre Dame,1996.0,"Animation,Drama,Family",7.0,177517.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0116629,movie,Independence Day,1996.0,"Action,Adventure,Sci-Fi",7.0,624928.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0116695,movie,Jerry Maguire,1996.0,"Comedy,Drama,Romance",7.3,297221.0,0.0,"Apple TV,Apple TV"
+tt0116922,movie,Lost Highway,1997.0,"Drama,Mystery,Thriller",7.6,162188.0,0.0,MUBI
+tt0117008,movie,Matilda,1996.0,"Comedy,Family,Fantasy",7.0,184574.0,0.0,Netflix
+tt0117318,movie,The People vs. Larry Flynt,1996.0,"Biography,Drama",7.3,103150.0,0.0,TOD TV
+tt0117500,movie,The Rock,1996.0,"Action,Adventure,Thriller",7.4,368692.0,0.0,"Disney Plus,TV+,Apple TV,Apple TV"
+tt0117509,movie,Romeo + Juliet,1996.0,"Drama,Romance",6.7,251346.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0117571,movie,Scream,1996.0,"Horror,Mystery",7.4,415066.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0117665,movie,Sleepers,1996.0,"Crime,Drama,Thriller",7.5,244542.0,0.0,"Apple TV,Apple TV"
+tt0117731,movie,Star Trek: First Contact,1996.0,"Action,Adventure,Drama",7.6,134725.0,0.0,"Apple TV,Apple TV"
+tt0117998,movie,Twister,1996.0,"Action,Adventure,Thriller",6.6,243093.0,0.0,"blutv,Apple TV,Apple TV"
+tt0118571,movie,Air Force One,1997.0,"Action,Crime,Drama",6.5,217308.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0118617,movie,Anastasia,1997.0,"Adventure,Animation,Drama",7.1,141228.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0118689,movie,Bean,1997.0,"Adventure,Comedy,Family",6.5,113531.0,0.0,"Apple TV,Apple TV"
+tt0118749,movie,Boogie Nights,1997.0,Drama,7.9,290374.0,0.0,"Apple TV,Apple TV"
+tt0118880,movie,Con Air,1997.0,"Action,Crime,Thriller",6.9,329216.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0118883,movie,Conspiracy Theory,1997.0,"Action,Drama,Mystery",6.7,110313.0,0.0,"Apple TV,Apple TV"
+tt0118887,movie,Cop Land,1997.0,"Crime,Drama,Thriller",7.0,110797.0,0.0,"Apple TV,Apple TV"
+tt0118971,movie,The Devil's Advocate,1997.0,"Drama,Fantasy,Mystery",7.5,420942.0,0.0,"Netflix,Apple TV"
+tt0119008,movie,Donnie Brasco,1997.0,"Biography,Crime,Drama",7.7,343206.0,0.0,Netflix
+tt0119116,movie,The Fifth Element,1997.0,"Action,Adventure,Sci-Fi",7.6,525029.0,0.0,"TV+,Apple TV"
+tt0119177,movie,Gattaca,1997.0,"Drama,Sci-Fi,Thriller",7.7,334721.0,0.0,"Apple TV,Apple TV"
+tt0119282,movie,Hercules,1997.0,"Action,Adventure,Animation",7.3,266660.0,0.0,Disney Plus
+tt0119396,movie,Jackie Brown,1997.0,"Crime,Drama,Thriller",7.5,388457.0,0.0,"Netflix,TV+,Apple TV,Apple TV"
+tt0119643,movie,Meet Joe Black,1998.0,"Drama,Fantasy,Romance",7.2,281038.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0119822,movie,As Good as It Gets,1997.0,"Comedy,Drama,Romance",7.7,327424.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0120102,movie,Seven Years in Tibet,1997.0,"Adventure,Biography,Drama",7.1,161253.0,0.0,"Apple TV,Apple TV"
+tt0120188,movie,Three Kings,1999.0,"Action,Adventure,Comedy",7.1,183969.0,0.0,"Apple TV,Apple TV"
+tt0120201,movie,Starship Troopers,1997.0,"Action,Adventure,Sci-Fi",7.3,333668.0,0.0,Disney Plus
+tt0120347,movie,Tomorrow Never Dies,1997.0,"Action,Adventure,Thriller",6.5,209383.0,0.0,"Apple TV,Apple TV"
+tt0120587,movie,Antz,1998.0,"Adventure,Animation,Comedy",6.5,167239.0,0.0,"Apple TV,Apple TV"
+tt0120591,movie,Armageddon,1998.0,"Action,Adventure,Sci-Fi",6.7,464631.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0120601,movie,Being John Malkovich,1999.0,"Comedy,Drama,Fantasy",7.7,361452.0,0.0,"Apple TV,Apple TV"
+tt0120623,movie,A Bug's Life,1998.0,"Adventure,Animation,Comedy",7.2,325715.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0120632,movie,City of Angels,1998.0,"Drama,Fantasy,Romance",6.7,131125.0,0.0,"Apple TV,Apple TV"
+tt0120657,movie,The 13th Warrior,1999.0,"Action,Adventure,History",6.6,135556.0,0.0,Disney Plus
+tt0120660,movie,Enemy of the State,1998.0,"Action,Thriller",7.3,266877.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0120663,movie,Eyes Wide Shut,1999.0,"Drama,Mystery,Thriller",7.5,397057.0,0.0,"blutv,Apple TV,Apple TV"
+tt0120681,movie,From Hell,2001.0,"Crime,Horror,Mystery",6.7,167991.0,0.0,"Apple TV,Apple TV"
+tt0120744,movie,The Man in the Iron Mask,1998.0,"Action,Adventure,Drama",6.5,183591.0,0.0,Amazon Prime Video
+tt0120746,movie,The Mask of Zorro,1998.0,"Action,Adventure,Comedy",6.8,203405.0,0.0,"Apple TV,Apple TV"
+tt0120762,movie,Mulan,1998.0,"Adventure,Animation,Comedy",7.7,330400.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0120783,movie,The Parent Trap,1998.0,"Adventure,Comedy,Drama",6.7,163429.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0120804,movie,Resident Evil,2002.0,"Action,Horror,Sci-Fi",6.6,298311.0,0.0,"Netflix,Apple TV"
+tt0120855,movie,Tarzan,1999.0,"Adventure,Animation,Comedy",7.3,258058.0,0.0,"blutv,Apple TV,Apple TV"
+tt0120863,movie,The Thin Red Line,1998.0,"Drama,History,War",7.6,205685.0,0.0,Disney Plus
+tt0120889,movie,What Dreams May Come,1998.0,"Drama,Fantasy,Romance",7.0,117193.0,0.0,"Apple TV,Apple TV"
+tt0120890,movie,Wild Things,1998.0,"Crime,Drama,Mystery",6.6,135798.0,0.0,Netflix
+tt0120902,movie,The X Files,1998.0,"Drama,Mystery,Sci-Fi",7.0,112155.0,0.0,"Disney Plus,Amazon Prime Video"
+tt0120917,movie,The Emperor's New Groove,2000.0,"Adventure,Animation,Comedy",7.4,236410.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0121164,movie,Corpse Bride,2005.0,"Animation,Comedy,Drama",7.4,312603.0,0.0,"Apple TV,Apple TV"
+tt0122690,movie,Ronin,1998.0,"Action,Crime,Thriller",7.2,200883.0,0.0,Amazon Prime Video
+tt0122933,movie,Analyze This,1999.0,"Comedy,Crime",6.7,164882.0,0.0,"Apple TV,Apple TV"
+tt0125439,movie,Notting Hill,1999.0,"Comedy,Drama,Romance",7.2,363195.0,0.0,"Apple TV,Apple TV"
+tt0127536,movie,Elizabeth,1998.0,"Biography,Drama,History",7.4,107822.0,0.0,"Apple TV,Apple TV"
+tt0128853,movie,You've Got Mail,1998.0,"Comedy,Drama,Romance",6.7,237164.0,0.0,"Apple TV,Apple TV"
+tt0133240,movie,Treasure Planet,2002.0,"Adventure,Animation,Family",7.2,140128.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0134273,movie,8MM,1999.0,"Crime,Drama,Mystery",6.6,146942.0,0.0,"Apple TV,Apple TV"
+tt0134847,movie,Pitch Black,2000.0,"Horror,Sci-Fi,Thriller",7.0,258677.0,0.0,"Apple TV,Apple TV"
+tt0138749,movie,The Road to El Dorado,2000.0,"Adventure,Animation,Comedy",6.9,112830.0,0.0,"Apple TV,Apple TV"
+tt0139654,movie,Training Day,2001.0,"Crime,Drama,Thriller",7.8,493721.0,0.0,"Apple TV,Apple TV"
+tt0140352,movie,The Insider,1999.0,"Biography,Drama,History",7.8,185812.0,0.0,ERROR:429
+tt0142688,movie,The Ninth Gate,1999.0,"Mystery,Thriller",6.7,203857.0,0.0,ERROR:429
+tt0145660,movie,Austin Powers: The Spy Who Shagged Me,1999.0,"Action,Adventure,Comedy",6.7,255465.0,0.0,"Apple TV,Apple TV"
+tt0145681,movie,The Bone Collector,1999.0,"Crime,Drama,Mystery",6.7,192856.0,0.0,"Apple TV,Apple TV"
+tt0146838,movie,Any Given Sunday,1999.0,"Drama,Sport",6.9,128415.0,0.0,"Apple TV,Apple TV"
+tt0146882,movie,High Fidelity,2000.0,"Comedy,Drama,Music",7.4,194432.0,0.0,Disney Plus
+tt0147800,movie,10 Things I Hate About You,1999.0,"Comedy,Drama,Romance",7.3,415398.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0154506,movie,Following,1998.0,"Crime,Mystery,Thriller",7.4,105476.0,0.0,MUBI
+tt0159097,movie,The Virgin Suicides,1999.0,"Drama,Romance",7.2,178017.0,0.0,Netflix
+tt0159365,movie,Cold Mountain,2003.0,"Adventure,Drama,Romance",7.2,160245.0,0.0,"Apple TV,Apple TV"
+tt0161081,movie,What Lies Beneath,2000.0,"Drama,Horror,Mystery",6.6,140008.0,0.0,Disney Plus
+tt0163978,movie,The Beach,2000.0,"Adventure,Drama,Romance",6.6,260327.0,0.0,Disney Plus
+tt0164184,movie,The Sum of All Fears,2002.0,"Action,Drama,Thriller",6.5,128035.0,0.0,"Apple TV,Apple TV"
+tt0167190,movie,Hellboy,2004.0,"Action,Adventure,Fantasy",6.9,360277.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0168629,movie,Dancer in the Dark,2000.0,"Crime,Drama,Musical",7.9,120228.0,0.0,MUBI
+tt0172493,movie,"Girl, Interrupted",1999.0,"Biography,Drama",7.3,223091.0,0.0,"Netflix,Apple TV"
+tt0177971,movie,The Perfect Storm,2000.0,"Action,Adventure,Drama",6.5,183138.0,0.0,"Apple TV,Apple TV"
+tt0181875,movie,Almost Famous,2000.0,"Adventure,Comedy,Drama",7.9,302863.0,0.0,"Apple TV,Apple TV"
+tt0182789,movie,Bicentennial Man,1999.0,"Drama,Romance,Sci-Fi",6.9,128242.0,0.0,TOD TV
+tt0183505,movie,"Me, Myself & Irene",2000.0,Comedy,6.6,257926.0,0.0,"Apple TV,Apple TV"
+tt0183649,movie,Phone Booth,2002.0,"Crime,Thriller",7.1,293929.0,0.0,Disney Plus
+tt0184894,movie,Shanghai Noon,2000.0,"Action,Adventure,Comedy",6.6,138483.0,0.0,TV+
+tt0185937,movie,The Blair Witch Project,1999.0,"Horror,Mystery",6.5,300753.0,0.0,"Apple TV,Apple TV"
+tt0187078,movie,Gone in Sixty Seconds,2000.0,"Action,Crime,Thriller",6.5,302225.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0187393,movie,The Patriot,2000.0,"Action,Drama,History",7.2,302899.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0190332,movie,Wo hu cang long,2000.0,"Action,Adventure,Drama",7.9,287507.0,0.0,Amazon Prime Video
+tt0195685,movie,Erin Brockovich,2000.0,"Biography,Drama",7.5,232863.0,0.0,Amazon Prime Video
+tt0196229,movie,Zoolander,2001.0,Comedy,6.5,304758.0,0.0,"Apple TV,Apple TV"
+tt0203009,movie,Moulin Rouge!,2001.0,"Drama,Musical,Romance",7.6,306542.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0212338,movie,Meet the Parents,2000.0,"Comedy,Romance",7.0,366873.0,0.0,"Apple TV,Apple TV"
+tt0213847,movie,Malèna,2000.0,"Drama,Romance,War",7.4,118599.0,0.0,Netflix
+tt0215129,movie,Road Trip,2000.0,Comedy,6.5,182955.0,0.0,"Apple TV,Apple TV"
+tt0217505,movie,Gangs of New York,2002.0,"Crime,Drama",7.5,486973.0,0.0,TV+
+tt0218967,movie,The Family Man,2000.0,"Comedy,Drama,Fantasy",6.8,125830.0,0.0,Amazon Prime Video
+tt0223897,movie,Pay It Forward,2000.0,Drama,7.2,126141.0,0.0,"Apple TV,Apple TV"
+tt0230011,movie,Atlantis: The Lost Empire,2001.0,"Action,Adventure,Animation",6.9,140577.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0241303,movie,Chocolat,2000.0,"Drama,Romance",7.2,206256.0,0.0,"Apple TV,Apple TV"
+tt0243155,movie,Bridget Jones's Diary,2001.0,"Comedy,Drama,Romance",6.8,277018.0,0.0,Netflix
+tt0244244,movie,Swordfish,2001.0,"Action,Crime,Thriller",6.5,199767.0,0.0,"Apple TV,Apple TV"
+tt0245574,movie,Y tu mamá también,2001.0,Drama,7.7,133926.0,0.0,Netflix
+tt0250494,movie,Legally Blonde,2001.0,"Comedy,Romance",6.5,264712.0,0.0,Amazon Prime Video
+tt0250797,movie,Unfaithful,2002.0,"Drama,Romance,Thriller",6.7,102557.0,0.0,ERROR:429
+tt0251127,movie,How to Lose a Guy in 10 Days,2003.0,"Comedy,Romance",6.5,295429.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0251160,movie,John Q,2002.0,"Crime,Drama,Thriller",7.1,148352.0,0.0,ERROR:429
+tt0257044,movie,Road to Perdition,2002.0,"Crime,Drama,Thriller",7.7,292393.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0257360,movie,About Schmidt,2002.0,Drama,7.2,135648.0,0.0,"Apple TV,Apple TV"
+tt0258000,movie,Panic Room,2002.0,"Crime,Drama,Thriller",6.8,306115.0,0.0,ERROR:429
+tt0259711,movie,Vanilla Sky,2001.0,"Fantasy,Mystery,Romance",6.9,293484.0,0.0,"Apple TV,Apple TV"
+tt0261392,movie,Jay and Silent Bob Strike Back,2001.0,Comedy,6.8,163612.0,0.0,ERROR:429
+tt0265208,movie,The Girl Next Door,2004.0,"Comedy,Drama,Romance",6.7,250590.0,0.0,Netflix
+tt0265459,movie,One Hour Photo,2002.0,"Drama,Thriller",6.8,135729.0,0.0,"Apple TV,Apple TV"
+tt0265666,movie,The Royal Tenenbaums,2001.0,"Comedy,Drama",7.6,321615.0,0.0,ERROR:429
+tt0272338,movie,Punch-Drunk Love,2002.0,"Comedy,Drama,Romance",7.3,184869.0,0.0,Apple TV
+tt0274812,movie,Secretary,2002.0,"Comedy,Drama,Romance",6.9,103883.0,0.0,"Apple TV,Apple TV"
+tt0275847,movie,Lilo & Stitch,2002.0,"Adventure,Animation,Comedy",7.3,223470.0,0.0,ERROR:429
+tt0276919,movie,Dogville,2003.0,"Crime,Drama",8.0,163462.0,0.0,MUBI
+tt0286106,movie,Signs,2002.0,"Drama,Mystery,Sci-Fi",6.8,400156.0,0.0,Disney Plus
+tt0286499,movie,Bend It Like Beckham,2002.0,"Comedy,Drama,Romance",6.7,119159.0,0.0,ERROR:429
+tt0287467,movie,Hable con ella,2002.0,"Drama,Mystery,Romance",7.9,119764.0,0.0,ERROR:429
+tt0289765,movie,Red Dragon,2002.0,"Crime,Drama,Thriller",7.2,301799.0,0.0,ERROR:429
+tt0292506,movie,The Recruit,2003.0,"Action,Thriller",6.6,144556.0,0.0,Netflix
+tt0292963,movie,Before the Devil Knows You're Dead,2007.0,"Crime,Drama,Thriller",7.3,116440.0,0.0,ERROR:429
+tt0296572,movie,The Chronicles of Riddick,2004.0,"Action,Adventure,Sci-Fi",6.6,247221.0,0.0,ERROR:429
+tt0298130,movie,The Ring,2002.0,"Horror,Mystery",7.1,388343.0,0.0,"Apple TV,Apple TV"
+tt0299658,movie,Chicago,2002.0,"Comedy,Crime,Musical",7.2,249579.0,0.0,ERROR:429
+tt0302886,movie,Old School,2003.0,Comedy,7.0,249922.0,0.0,"Apple TV,Apple TV"
+tt0307901,movie,25th Hour,2002.0,Drama,7.6,187405.0,0.0,"Apple TV,Apple TV"
+tt0308644,movie,Finding Neverland,2004.0,"Biography,Drama,Family",7.6,214546.0,0.0,"Apple TV,Apple TV"
+tt0309698,movie,Identity,2003.0,"Mystery,Thriller",7.3,278526.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0309987,movie,The Dreamers,2003.0,"Drama,Romance",7.1,137121.0,0.0,MUBI
+tt0310793,movie,Bowling for Columbine,2002.0,"Crime,Documentary,Drama",8.0,150592.0,0.0,ERROR:429
+tt0311113,movie,Master and Commander: The Far Side of the World,2003.0,"Action,Adventure,Drama",7.5,245818.0,0.0,ERROR:429
+tt0312004,movie,The Curse of the Were-Rabbit,2005.0,"Adventure,Animation,Comedy",7.5,152793.0,0.0,ERROR:429
+tt0313542,movie,Runaway Jury,2003.0,"Crime,Drama,Thriller",7.1,113154.0,0.0,"Disney Plus,Netflix,Apple TV,Apple TV"
+tt0314331,movie,Love Actually,2003.0,"Comedy,Drama,Romance",7.6,557597.0,0.0,"Netflix,Apple TV"
+tt0314353,movie,Tears of the Sun,2003.0,"Action,Drama,Thriller",6.6,134144.0,0.0,"TV+,Apple TV"
+tt0317919,movie,Mission: Impossible III,2006.0,"Action,Adventure,Thriller",6.9,402391.0,0.0,"TV+,Apple TV,Apple TV"
+tt0318462,movie,Diarios de motocicleta,2004.0,"Adventure,Biography,Drama",7.7,106727.0,0.0,ERROR:429
+tt0319262,movie,The Day After Tomorrow,2004.0,"Action,Adventure,Sci-Fi",6.5,495306.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0319343,movie,Elf,2003.0,"Adventure,Comedy,Family",7.1,329119.0,0.0,"Apple TV,Apple TV"
+tt0320661,movie,Kingdom of Heaven,2005.0,"Action,Adventure,Drama",7.3,331759.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0320691,movie,Underworld,2003.0,"Action,Fantasy,Thriller",7.0,293088.0,0.0,ERROR:429
+tt0322802,movie,Jackass: The Movie,2002.0,"Action,Comedy,Documentary",6.6,104165.0,0.0,ERROR:429
+tt0325805,movie,Matchstick Men,2003.0,"Comedy,Crime,Drama",7.3,141812.0,0.0,"Apple TV,Apple TV"
+tt0327056,movie,Mystic River,2003.0,"Crime,Drama,Mystery",7.9,502133.0,0.0,"Apple TV,Apple TV"
+tt0327084,movie,Over the Hedge,2006.0,"Adventure,Animation,Comedy",6.7,195692.0,0.0,"Apple TV,Apple TV"
+tt0327850,movie,The Rundown,2003.0,"Action,Adventure,Comedy",6.7,146137.0,0.0,ERROR:429
+tt0328107,movie,Man on Fire,2004.0,"Action,Crime,Drama",7.7,402026.0,0.0,"Disney Plus,TV+,Apple TV,Apple TV"
+tt0328538,movie,Thirteen,2003.0,Drama,6.8,102884.0,0.0,Apple TV
+tt0328880,movie,Brother Bear,2003.0,"Adventure,Animation,Comedy",6.9,129762.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0332379,movie,School of Rock,2003.0,"Comedy,Music",7.2,343576.0,0.0,"Apple TV,Apple TV"
+tt0337978,movie,Live Free or Die Hard,2007.0,"Action,Thriller",7.1,428354.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0338348,movie,The Polar Express,2004.0,"Adventure,Animation,Comedy",6.6,256685.0,0.0,"Apple TV,Apple TV"
+tt0338751,movie,The Aviator,2004.0,"Biography,Drama",7.5,394002.0,0.0,ERROR:429
+tt0339291,movie,A Series of Unfortunate Events,2004.0,"Adventure,Comedy,Family",6.8,225929.0,0.0,Netflix
+tt0340855,movie,Monster,2003.0,"Biography,Crime,Drama",7.3,167305.0,0.0,Netflix
+tt0343737,movie,The Good Shepherd,2006.0,"Drama,History,Thriller",6.7,110509.0,0.0,ERROR:429
+tt0345950,movie,The SpongeBob SquarePants Movie,2004.0,"Adventure,Animation,Comedy",7.2,107377.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0348333,movie,Waiting...,2005.0,Comedy,6.7,109273.0,0.0,"Apple TV,Apple TV"
+tt0350258,movie,Ray,2004.0,"Biography,Drama,Music",7.7,160945.0,0.0,"Apple TV,Apple TV"
+tt0352248,movie,Cinderella Man,2005.0,"Biography,Drama,Romance",8.0,203709.0,0.0,Disney Plus
+tt0356150,movie,EuroTrip,2004.0,Comedy,6.6,232935.0,0.0,ERROR:429
+tt0357413,movie,Anchorman: The Legend of Ron Burgundy,2004.0,Comedy,7.1,389312.0,0.0,ERROR:429
+tt0358273,movie,Walk the Line,2005.0,"Biography,Drama,Music",7.8,273537.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0360717,movie,King Kong,2005.0,"Action,Adventure,Romance",7.2,457935.0,0.0,ERROR:429
+tt0361596,movie,Fahrenheit 9/11,2004.0,"Documentary,Drama,War",7.5,133669.0,0.0,ERROR:429
+tt0362270,movie,The Life Aquatic with Steve Zissou,2004.0,"Action,Adventure,Comedy",7.2,215389.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0363589,movie,Elephant,2003.0,"Crime,Drama,Thriller",7.1,100261.0,0.0,ERROR:429
+tt0363988,movie,Secret Window,2004.0,"Drama,Mystery,Thriller",6.5,215364.0,0.0,ERROR:429
+tt0365737,movie,Syriana,2005.0,"Drama,Thriller",6.9,136236.0,0.0,"Apple TV,Apple TV"
+tt0367110,movie,"Swades: We, the People",2004.0,"Drama,Musical",8.2,101274.0,0.0,Netflix
+tt0367594,movie,Charlie and the Chocolate Factory,2005.0,"Adventure,Comedy,Family",6.7,548973.0,0.0,Apple TV
+tt0368447,movie,The Village,2004.0,"Drama,Mystery,Thriller",6.6,287691.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0369339,movie,Collateral,2004.0,"Action,Crime,Drama",7.5,447151.0,0.0,ERROR:429
+tt0372588,movie,Team America: World Police,2004.0,"Action,Comedy",7.2,181921.0,0.0,ERROR:429
+tt0373074,movie,Kung Fu Hustle,2004.0,"Action,Comedy,Fantasy",7.7,156383.0,0.0,ERROR:429
+tt0373469,movie,Kiss Kiss Bang Bang,2005.0,"Comedy,Crime,Mystery",7.5,242711.0,0.0,"Apple TV,Apple TV"
+tt0374900,movie,Napoleon Dynamite,2004.0,Comedy,7.0,246154.0,0.0,Netflix
+tt0375063,movie,Sideways,2004.0,"Comedy,Drama,Romance",7.5,210341.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0375679,movie,Crash,2004.0,"Crime,Drama,Thriller",7.7,454919.0,0.0,MUBI
+tt0375912,movie,Layer Cake,2004.0,"Crime,Drama,Thriller",7.2,201871.0,0.0,"Apple TV,Apple TV"
+tt0377092,movie,Mean Girls,2004.0,Comedy,7.1,458922.0,0.0,"Apple TV,Apple TV"
+tt0379725,movie,Capote,2005.0,"Biography,Crime,Drama",7.3,145036.0,0.0,ERROR:429
+tt0380510,movie,The Lovely Bones,2009.0,"Drama,Fantasy,Thriller",6.6,185322.0,0.0,"Apple TV,Apple TV"
+tt0381849,movie,3:10 to Yuma,2007.0,"Action,Crime,Drama",7.6,341999.0,0.0,Netflix
+tt0383028,movie,"Synecdoche, New York",2008.0,Drama,7.5,101238.0,0.0,ERROR:429
+tt0384537,movie,Silent Hill,2006.0,"Horror,Mystery",6.5,251846.0,0.0,ERROR:429
+tt0385002,movie,Green Street,2005.0,"Crime,Drama,Sport",7.4,166092.0,0.0,ERROR:429
+tt0385004,movie,Shi mian mai fu,2004.0,"Action,Adventure,Drama",7.5,117826.0,0.0,ERROR:429
+tt0385880,movie,Monster House,2006.0,"Animation,Comedy,Family",6.7,146222.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0386117,movie,Where the Wild Things Are,2009.0,"Adventure,Drama,Family",6.7,110181.0,0.0,"Apple TV,Apple TV"
+tt0386588,movie,Hitch,2005.0,"Comedy,Romance",6.6,341847.0,0.0,"Amazon Prime Video,TV+,Apple TV,Apple TV"
+tt0393109,movie,Brick,2005.0,"Crime,Drama,Mystery",7.1,112067.0,0.0,"Apple TV,Apple TV"
+tt0393162,movie,Coach Carter,2005.0,"Biography,Drama,Sport",7.3,179461.0,0.0,"Apple TV,Apple TV"
+tt0396269,movie,Wedding Crashers,2005.0,"Comedy,Romance",7.0,386022.0,0.0,"Apple TV,Apple TV"
+tt0396555,movie,Meet the Robinsons,2007.0,"Adventure,Animation,Comedy",6.8,116226.0,0.0,Disney Plus
+tt0397101,movie,The Skeleton Key,2005.0,"Drama,Horror,Mystery",6.5,127124.0,0.0,"Apple TV,Apple TV"
+tt0397535,movie,Memoirs of a Geisha,2005.0,"Drama,Romance",7.3,166404.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0397892,movie,Bolt,2008.0,"Adventure,Animation,Comedy",6.8,237987.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0398286,movie,Tangled,2010.0,"Adventure,Animation,Comedy",7.7,518012.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0399146,movie,A History of Violence,2005.0,"Action,Crime,Drama",7.4,263409.0,0.0,"Apple TV,Apple TV"
+tt0401445,movie,A Good Year,2006.0,"Comedy,Drama,Romance",6.9,104184.0,0.0,ERROR:429
+tt0401729,movie,John Carter,2012.0,"Action,Adventure,Sci-Fi",6.6,292450.0,0.0,ERROR:429
+tt0401855,movie,Underworld: Evolution,2006.0,"Action,Fantasy,Thriller",6.7,213549.0,0.0,ERROR:429
+tt0404032,movie,The Exorcism of Emily Rose,2005.0,"Drama,Horror,Thriller",6.7,144428.0,0.0,"Apple TV,Apple TV"
+tt0404390,movie,Running Scared,2006.0,"Action,Crime,Drama",7.3,105087.0,0.0,"Apple TV,Apple TV"
+tt0405296,movie,A Scanner Darkly,2006.0,"Animation,Comedy,Crime",7.0,119730.0,0.0,Apple TV
+tt0405422,movie,The 40 Year Old Virgin,2005.0,"Comedy,Romance",7.1,483655.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt0406816,movie,The Guardian,2006.0,"Adventure,Drama",6.9,100667.0,0.0,Disney Plus
+tt0407304,movie,War of the Worlds,2005.0,"Action,Adventure,Sci-Fi",6.5,488593.0,0.0,Disney Plus
+tt0408306,movie,Munich,2005.0,"Drama,History,Thriller",7.5,246588.0,0.0,"Apple TV,Apple TV"
+tt0410297,movie,The Lake House,2006.0,"Drama,Fantasy,Romance",6.8,161236.0,0.0,"Apple TV,Apple TV"
+tt0411477,movie,Hellboy II: The Golden Army,2008.0,"Action,Adventure,Fantasy",7.0,292688.0,0.0,ERROR:429
+tt0414387,movie,Pride & Prejudice,2005.0,"Drama,Romance",7.8,349391.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0414993,movie,The Fountain,2006.0,"Drama,Mystery,Romance",7.2,252814.0,0.0,TV+
+tt0415306,movie,Talladega Nights: The Ballad of Ricky Bobby,2006.0,"Comedy,Sport",6.6,206544.0,0.0,"Apple TV,Apple TV"
+tt0416236,movie,The Spiderwick Chronicles,2008.0,"Action,Adventure,Drama",6.5,105671.0,0.0,"Apple TV,Apple TV"
+tt0418689,movie,Flags of Our Fathers,2006.0,"Action,Adventure,Drama",7.1,131716.0,0.0,"Apple TV,Apple TV"
+tt0418763,movie,Jarhead,2005.0,"Biography,Drama,War",7.0,214890.0,0.0,"Netflix,Amazon Prime Video,Apple TV,Apple TV"
+tt0420223,movie,Stranger Than Fiction,2006.0,"Comedy,Drama,Fantasy",7.5,240406.0,0.0,ERROR:429
+tt0421073,movie,Street Kings,2008.0,"Action,Crime,Thriller",6.8,123523.0,0.0,ERROR:429
+tt0424136,movie,Hard Candy,2005.0,"Drama,Thriller",7.0,171667.0,0.0,ERROR:429
+tt0424345,movie,Clerks II,2006.0,Comedy,7.3,142558.0,0.0,"Apple TV,Apple TV"
+tt0425123,movie,Just Like Heaven,2005.0,"Comedy,Drama,Fantasy",6.7,120959.0,0.0,Netflix
+tt0430105,movie,Four Brothers,2005.0,"Action,Crime,Drama",6.8,163531.0,0.0,"Apple TV,Apple TV"
+tt0430922,movie,Role Models,2008.0,Comedy,6.8,245258.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt0431197,movie,The Kingdom,2007.0,"Action,Drama,Thriller",7.0,134813.0,0.0,Netflix
+tt0431308,movie,P.S. I Love You,2007.0,"Comedy,Drama,Romance",7.0,221985.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0432283,movie,Fantastic Mr. Fox,2009.0,"Adventure,Animation,Comedy",7.9,284356.0,0.0,"TV+,Apple TV,Apple TV"
+tt0441909,movie,Volver,2006.0,"Comedy,Drama",7.6,109941.0,0.0,ERROR:429
+tt0443274,movie,Vantage Point,2008.0,"Action,Drama,Thriller",6.6,155771.0,0.0,ERROR:429
+tt0443680,movie,The Assassination of Jesse James by the Coward Robert Ford,2007.0,"Biography,Crime,Drama",7.5,197607.0,0.0,"Apple TV,Apple TV"
+tt0445922,movie,Across the Universe,2007.0,"Drama,Fantasy,History",7.3,115943.0,0.0,"Apple TV,Apple TV"
+tt0448134,movie,Sunshine,2007.0,"Sci-Fi,Thriller",7.2,275446.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0449467,movie,Babel,2006.0,Drama,7.5,323335.0,0.0,"Apple TV,Apple TV"
+tt0451079,movie,Horton Hears a Who!,2008.0,"Adventure,Animation,Comedy",6.8,154220.0,0.0,"Disney Plus,Apple TV"
+tt0453562,movie,42,2013.0,"Biography,Drama,Sport",7.5,105524.0,0.0,"Apple TV,Apple TV"
+tt0454848,movie,Inside Man,2006.0,"Crime,Drama,Mystery",7.6,411157.0,0.0,"Netflix,Amazon Prime Video,Apple TV,Apple TV"
+tt0455407,movie,The Crazies,2010.0,Horror,6.5,133153.0,0.0,ERROR:429
+tt0455590,movie,The Last King of Scotland,2006.0,"Biography,Drama,History",7.6,200606.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0455944,movie,The Equalizer,2014.0,"Action,Crime,Thriller",7.3,442944.0,0.0,"Netflix,Amazon Prime Video,TOD TV,Apple TV"
+tt0457939,movie,The Holiday,2006.0,"Comedy,Romance",7.0,347271.0,0.0,"Netflix,Amazon Prime Video,Apple TV,Apple TV"
+tt0458352,movie,The Devil Wears Prada,2006.0,"Comedy,Drama",6.9,496689.0,0.0,"Disney Plus,TV+"
+tt0458481,movie,Sin City: A Dame to Kill For,2014.0,"Action,Crime,Thriller",6.5,174290.0,0.0,ERROR:429
+tt0460791,movie,The Fall,2006.0,"Adventure,Drama,Fantasy",7.8,122316.0,0.0,"MUBI,Apple TV,Apple TV"
+tt0461770,movie,Enchanted,2007.0,"Adventure,Animation,Comedy",7.1,223295.0,0.0,"Apple TV,Apple TV"
+tt0462499,movie,Rambo,2008.0,"Action,Thriller",7.0,250487.0,0.0,ERROR:429
+tt0462538,movie,The Simpsons Movie,2007.0,"Adventure,Animation,Comedy",7.3,356879.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0462590,movie,Step Up,2006.0,"Crime,Drama,Music",6.5,130335.0,0.0,"Apple TV,Apple TV"
+tt0463854,movie,28 Weeks Later,2007.0,"Horror,Sci-Fi",6.9,308127.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0464141,movie,El orfanato,2007.0,"Drama,Horror,Mystery",7.4,167082.0,0.0,ERROR:429
+tt0465234,movie,National Treasure: Book of Secrets,2007.0,"Action,Adventure,Mystery",6.5,260716.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0465538,movie,Michael Clayton,2007.0,"Crime,Drama,Mystery",7.2,178264.0,0.0,blutv
+tt0465602,movie,Shoot 'Em Up,2007.0,"Action,Comedy,Thriller",6.6,157041.0,0.0,"Apple TV,Apple TV"
+tt0467200,movie,The Other Boleyn Girl,2008.0,"Biography,Drama,History",6.7,123105.0,0.0,Netflix
+tt0472062,movie,Charlie Wilson's War,2007.0,"Biography,Comedy,Drama",7.0,127656.0,0.0,ERROR:429
+tt0473705,movie,State of Play,2009.0,"Crime,Drama,Mystery",7.1,163654.0,0.0,"Apple TV,Apple TV"
+tt0475276,movie,United 93,2006.0,"Action,Drama,History",7.6,113083.0,0.0,"Apple TV,Apple TV"
+tt0475394,movie,Smokin' Aces,2006.0,"Action,Comedy,Crime",6.6,154816.0,0.0,ERROR:429
+tt0477080,movie,Unstoppable,2010.0,"Action,Thriller",6.8,213192.0,0.0,"Disney Plus,Apple TV"
+tt0477302,movie,Extremely Loud & Incredibly Close,2011.0,"Adventure,Drama,Mystery",6.9,106470.0,0.0,ERROR:429
+tt0478087,movie,21,2008.0,"Crime,Drama,Thriller",6.8,273237.0,0.0,ERROR:429
+tt0478311,movie,Knocked Up,2007.0,"Comedy,Romance",6.9,391588.0,0.0,ERROR:429
+tt0479884,movie,Crank,2006.0,"Action,Crime,Thriller",6.9,270404.0,0.0,ERROR:429
+tt0480025,movie,This Is England,2006.0,"Crime,Drama",7.7,131775.0,0.0,ERROR:429
+tt0486655,movie,Stardust,2007.0,"Adventure,Fantasy,Romance",7.6,291491.0,0.0,ERROR:429
+tt0488120,movie,Fracture,2007.0,"Crime,Drama,Thriller",7.2,226489.0,0.0,Netflix
+tt0490204,movie,Reign Over Me,2007.0,Drama,7.4,100961.0,0.0,ERROR:429
+tt0490215,movie,Silence,2016.0,"Drama,History",7.2,127180.0,0.0,ERROR:429
+tt0497465,movie,Vicky Cristina Barcelona,2008.0,"Comedy,Drama,Romance",7.1,274155.0,0.0,Apple TV
+tt0498380,movie,Letters from Iwo Jima,2006.0,"Action,Adventure,Drama",7.8,173364.0,0.0,"Apple TV,Apple TV"
+tt0499448,movie,The Chronicles of Narnia: Prince Caspian,2008.0,"Action,Adventure,Family",6.5,232121.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0758752,movie,Love & Other Drugs,2010.0,"Comedy,Drama,Romance",6.7,234571.0,0.0,"TV+,Apple TV,Apple TV"
+tt0758766,movie,Music and Lyrics,2007.0,"Comedy,Music,Romance",6.5,109364.0,0.0,"Apple TV,Apple TV"
+tt0765010,movie,Brothers,2009.0,"Drama,Thriller,War",7.1,159448.0,0.0,Amazon Prime Video
+tt0765429,movie,American Gangster,2007.0,"Biography,Crime,Drama",7.8,470137.0,0.0,ERROR:429
+tt0765443,movie,Eastern Promises,2007.0,"Crime,Drama,Thriller",7.6,269909.0,0.0,Amazon Prime Video
+tt0780521,movie,The Princess and the Frog,2009.0,"Adventure,Animation,Comedy",7.2,176711.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0783233,movie,Atonement,2007.0,"Drama,Mystery,Romance",7.8,312501.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0790636,movie,Dallas Buyers Club,2013.0,"Biography,Drama",7.9,533509.0,0.0,ERROR:429
+tt0795368,movie,Death at a Funeral,2007.0,Comedy,7.3,124324.0,0.0,ERROR:429
+tt0795421,movie,Mamma Mia!,2008.0,"Comedy,Musical,Romance",6.5,289321.0,0.0,ERROR:429
+tt0800039,movie,Forgetting Sarah Marshall,2008.0,"Comedy,Drama,Romance",7.1,309671.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt0804497,movie,It's Kind of a Funny Story,2010.0,"Comedy,Drama,Romance",7.1,150182.0,0.0,"Apple TV,Apple TV"
+tt0805564,movie,Lars and the Real Girl,2007.0,"Comedy,Drama,Romance",7.3,161578.0,0.0,ERROR:429
+tt0810819,movie,The Danish Girl,2015.0,"Biography,Drama",7.1,203087.0,0.0,"Apple TV,Apple TV"
+tt0814314,movie,Seven Pounds,2008.0,"Drama,Mystery,Thriller",7.6,320461.0,0.0,ERROR:429
+tt0816442,movie,The Book Thief,2013.0,"Drama,War",7.5,144940.0,0.0,ERROR:429
+tt0817177,movie,Flipped,2010.0,"Comedy,Drama,Romance",7.7,101895.0,0.0,ERROR:429
+tt0822832,movie,Marley & Me,2008.0,"Drama,Family",7.0,171644.0,0.0,ERROR:429
+tt0824747,movie,Changeling,2008.0,"Biography,Crime,Drama",7.7,270175.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt0825232,movie,The Bucket List,2007.0,"Adventure,Comedy,Drama",7.3,265613.0,0.0,"Apple TV,Apple TV"
+tt0830515,movie,Quantum of Solace,2008.0,"Action,Adventure,Mystery",6.5,481920.0,0.0,ERROR:429
+tt0832266,movie,"Definitely, Maybe",2008.0,"Comedy,Drama,Romance",7.1,178022.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0834001,movie,Underworld: Rise of the Lycans,2009.0,"Action,Fantasy,Thriller",6.5,171469.0,0.0,"Netflix,TV+,Apple TV,Apple TV"
+tt0837562,movie,Hotel Transylvania,2012.0,"Animation,Comedy,Family",7.0,295542.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0838221,movie,The Darjeeling Limited,2007.0,"Adventure,Comedy,Drama",7.2,222904.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0838283,movie,Step Brothers,2008.0,Comedy,6.9,329795.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0844708,movie,The Last House on the Left,2009.0,"Horror,Thriller",6.5,104093.0,0.0,ERROR:429
+tt0848537,movie,Epic,2013.0,"Action,Adventure,Animation",6.6,111995.0,0.0,ERROR:429
+tt0851578,movie,Paprika,2006.0,"Animation,Drama,Fantasy",7.7,103831.0,0.0,"Apple TV,Apple TV"
+tt0862856,movie,Trick 'r Treat,2007.0,"Comedy,Horror",6.7,109569.0,0.0,"Apple TV,Apple TV"
+tt0870111,movie,Frost/Nixon,2008.0,"Biography,Drama,History",7.6,114337.0,0.0,"Apple TV,Apple TV"
+tt0870154,movie,Jungle Cruise,2021.0,"Action,Adventure,Comedy",6.6,220425.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt0870984,movie,Antichrist,2009.0,"Drama,Horror,Thriller",6.5,140596.0,0.0,MUBI
+tt0876563,movie,Gake no ue no Ponyo,2008.0,"Adventure,Animation,Comedy",7.6,173666.0,0.0,Netflix
+tt0887912,movie,The Hurt Locker,2008.0,"Drama,Thriller,War",7.5,483620.0,0.0,ERROR:429
+tt0907657,movie,Once,2006.0,"Drama,Music,Musical",7.8,123100.0,0.0,ERROR:429
+tt0910936,movie,Pineapple Express,2008.0,"Action,Comedy,Crime",6.9,364391.0,0.0,"TV+,Apple TV,Apple TV"
+tt0914798,movie,The Boy in the Striped Pajamas,2008.0,"Drama,War",7.7,260995.0,0.0,ERROR:429
+tt0918927,movie,Doubt,2008.0,"Drama,Mystery",7.5,141025.0,0.0,Netflix
+tt0942385,movie,Tropic Thunder,2008.0,"Action,Comedy,War",7.1,465910.0,0.0,ERROR:429
+tt0947810,movie,Green Zone,2010.0,"Action,Drama,Thriller",6.8,144924.0,0.0,"Apple TV,Apple TV"
+tt0959337,movie,Revolutionary Road,2008.0,"Drama,Romance",7.3,229806.0,0.0,"Apple TV,Apple TV"
+tt0963178,movie,The International,2009.0,"Action,Crime,Drama",6.5,102356.0,0.0,"Netflix,Apple TV,Apple TV"
+tt0985694,movie,Machete,2010.0,"Action,Crime,Thriller",6.6,206927.0,0.0,ERROR:429
+tt0985699,movie,Valkyrie,2008.0,"Drama,History,Thriller",7.1,265941.0,0.0,ERROR:429
+tt0993842,movie,Hanna,2011.0,"Action,Adventure,Drama",6.7,210559.0,0.0,ERROR:429
+tt1007028,movie,Zack and Miri Make a Porno,2008.0,"Comedy,Romance",6.5,184395.0,0.0,ERROR:429
+tt1013753,movie,Milk,2008.0,"Biography,Drama,History",7.5,182495.0,0.0,ERROR:429
+tt10189514,movie,Soorarai Pottru,2020.0,Drama,8.7,127325.0,0.0,Amazon Prime Video
+tt1023111,movie,Never Back Down,2008.0,"Action,Drama,Sport",6.5,108764.0,0.0,ERROR:429
+tt1023114,movie,The Way Back,2010.0,"Adventure,Drama,History",7.3,124545.0,0.0,blutv
+tt1028528,movie,Death Proof,2007.0,"Drama,Thriller",7.0,323439.0,0.0,ERROR:429
+tt10293406,movie,The Power of the Dog,2021.0,"Drama,Western",6.8,199771.0,0.0,ERROR:429
+tt10295212,movie,Shershaah,2021.0,"Action,Biography,Drama",8.3,132073.0,0.0,ERROR:429
+tt1032755,movie,RocknRolla,2008.0,"Action,Crime,Thriller",7.2,270080.0,0.0,ERROR:429
+tt1033575,movie,The Descendants,2011.0,"Comedy,Drama",7.3,255933.0,0.0,ERROR:429
+tt1034303,movie,Defiance,2008.0,"Action,Drama,History",7.1,158408.0,0.0,ERROR:429
+tt1037705,movie,The Book of Eli,2010.0,"Action,Adventure,Drama",6.8,350280.0,0.0,Netflix
+tt1045772,movie,I Love You Phillip Morris,2009.0,"Biography,Comedy,Crime",6.6,101522.0,0.0,ERROR:429
+tt10545296,movie,The Hunger Games: The Ballad of Songbirds & Snakes,2023.0,"Action,Adventure,Drama",6.7,156888.0,0.0,ERROR:429
+tt1055292,movie,Life as We Know It,2010.0,"Comedy,Drama,Romance",6.5,141701.0,0.0,"Apple TV,Apple TV"
+tt1057500,movie,Invictus,2009.0,"Biography,Drama,History",7.3,170907.0,0.0,"Apple TV,Apple TV"
+tt1060277,movie,Cloverfield,2008.0,"Action,Horror,Sci-Fi",7.0,432417.0,0.0,"Apple TV,Apple TV"
+tt1063669,movie,Die Welle,2008.0,"Drama,Thriller",7.6,118153.0,0.0,ERROR:429
+tt10638522,movie,Talk to Me,2022.0,"Horror,Thriller",7.1,179951.0,0.0,TV+
+tt1067106,movie,A Christmas Carol,2009.0,"Adventure,Animation,Comedy",6.8,135384.0,0.0,ERROR:429
+tt1067583,movie,Water for Elephants,2011.0,"Drama,Romance",6.9,122199.0,0.0,ERROR:429
+tt10698680,movie,K.G.F: Chapter 2,2022.0,"Action,Crime,Drama",8.2,158059.0,0.0,Amazon Prime Video
+tt1078588,movie,My Sister's Keeper,2009.0,"Drama,Family",7.3,100679.0,0.0,"Apple TV,Apple TV"
+tt1083452,movie,Eddie the Eagle,2015.0,"Adventure,Biography,Comedy",7.3,103944.0,0.0,ERROR:429
+tt1086772,movie,Blended,2014.0,"Comedy,Romance",6.5,151216.0,0.0,"Apple TV,Apple TV"
+tt1091191,movie,Lone Survivor,2013.0,"Action,Biography,Drama",7.5,314810.0,0.0,ERROR:429
+tt1091722,movie,Adventureland,2009.0,"Comedy,Drama,Romance",6.8,172004.0,0.0,ERROR:429
+tt1092026,movie,Paul,2011.0,"Adventure,Comedy,Sci-Fi",6.9,273324.0,0.0,"Apple TV,Apple TV"
+tt1100089,movie,Foxcatcher,2014.0,"Biography,Drama,History",7.0,152247.0,0.0,TV+
+tt11083552,movie,Wrath of Man,2021.0,"Action,Crime,Thriller",7.1,222454.0,0.0,ERROR:429
+tt1109624,movie,Paddington,2014.0,"Adventure,Comedy,Family",7.3,146077.0,0.0,ERROR:429
+tt11138512,movie,The Northman,2022.0,"Action,Adventure,Drama",7.0,277066.0,0.0,"TV+,Apple TV,Apple TV"
+tt1120985,movie,Blue Valentine,2010.0,"Drama,Romance",7.3,217792.0,0.0,ERROR:429
+tt11214590,movie,House of Gucci,2021.0,"Biography,Crime,Drama",6.6,167924.0,0.0,ERROR:429
+tt11233960,movie,The Unforgivable,2021.0,"Crime,Drama,Mystery",7.1,123318.0,0.0,ERROR:429
+tt1124035,movie,The Ides of March,2011.0,"Drama,Thriller",7.1,235097.0,0.0,ERROR:429
+tt1125849,movie,The Wrestler,2008.0,"Drama,Sport",7.9,325077.0,0.0,ERROR:429
+tt1126590,movie,Big Eyes,2014.0,"Biography,Crime,Drama",7.0,102142.0,0.0,TOD TV
+tt11271038,movie,Licorice Pizza,2021.0,"Comedy,Drama,Romance",7.1,147293.0,0.0,"Apple TV,Apple TV"
+tt1127180,movie,Drag Me to Hell,2009.0,Horror,6.6,223829.0,0.0,"Netflix,Apple TV,Apple TV"
+tt11291274,movie,The Unbearable Weight of Massive Talent,2022.0,"Action,Comedy,Crime",7.0,168807.0,0.0,"Amazon Prime Video,TV+,Apple TV,Apple TV"
+tt1131729,movie,Pirate Radio,2009.0,"Comedy,Drama,Music",7.3,118131.0,0.0,ERROR:429
+tt1135503,movie,Julie & Julia,2009.0,"Biography,Drama,Romance",7.0,132113.0,0.0,ERROR:429
+tt11389872,movie,Kingdom of the Planet of the Apes,2024.0,"Action,Adventure,Drama",6.9,150358.0,0.0,ERROR:429
+tt1139797,movie,Låt den rätte komma in,2008.0,"Drama,Fantasy,Horror",7.8,232839.0,0.0,ERROR:429
+tt1142977,movie,Frankenweenie,2012.0,"Animation,Comedy,Drama",6.9,121716.0,0.0,ERROR:429
+tt1148204,movie,Orphan,2009.0,"Horror,Mystery,Thriller",7.0,265527.0,0.0,"Netflix,Apple TV,Apple TV"
+tt1152836,movie,Public Enemies,2009.0,"Biography,Crime,Drama",6.9,327685.0,0.0,"Netflix,Amazon Prime Video,Apple TV,Apple TV"
+tt1155056,movie,"I Love You, Man",2009.0,"Comedy,Romance",7.0,221390.0,0.0,"Apple TV,Apple TV"
+tt1172049,movie,Demolition,2015.0,"Comedy,Drama",7.0,121324.0,0.0,ERROR:429
+tt1179933,movie,10 Cloverfield Lane,2016.0,"Drama,Horror,Sci-Fi",7.2,369789.0,0.0,"Apple TV,Apple TV"
+tt1187064,movie,Triangle,2009.0,"Fantasy,Mystery,Sci-Fi",6.9,138880.0,0.0,ERROR:429
+tt1188729,movie,Pandorum,2009.0,"Action,Horror,Mystery",6.7,163521.0,0.0,ERROR:429
+tt1188996,movie,My Name Is Khan,2010.0,"Drama,Romance",7.9,119317.0,0.0,ERROR:429
+tt1189340,movie,The Lincoln Lawyer,2011.0,"Crime,Drama,Mystery",7.3,261494.0,0.0,Netflix
+tt1193138,movie,Up in the Air,2009.0,"Comedy,Drama,Romance",7.4,354720.0,0.0,"Apple TV,Apple TV"
+tt12003946,movie,Violent Night,2022.0,"Action,Comedy,Thriller",6.7,113554.0,0.0,"Apple TV,Apple TV"
+tt1211956,movie,Escape Plan,2013.0,"Action,Thriller",6.7,264285.0,0.0,"Netflix,Apple TV,Apple TV"
+tt1212428,movie,The Lost City of Z,2016.0,"Adventure,Biography,Drama",6.6,102445.0,0.0,ERROR:429
+tt12263384,movie,Extraction 2,2023.0,"Action,Crime,Thriller",7.0,162074.0,0.0,Netflix
+tt1226837,movie,Beautiful Boy,2018.0,"Biography,Drama",7.4,112852.0,0.0,"Amazon Prime Video,Apple TV"
+tt1230414,movie,It's Complicated,2009.0,"Comedy,Drama,Romance",6.5,100630.0,0.0,"Apple TV,Apple TV"
+tt12412888,movie,Sonic the Hedgehog 2,2022.0,"Action,Adventure,Comedy",6.5,105254.0,0.0,"Apple TV,Apple TV"
+tt12584954,movie,Twisters,2024.0,"Action,Adventure,Thriller",6.5,163841.0,0.0,"blutv,Apple TV,Apple TV"
+tt1259521,movie,The Cabin in the Woods,2011.0,"Horror,Mystery,Thriller",7.0,470247.0,0.0,ERROR:429
+tt1259528,movie,Den of Thieves,2018.0,"Action,Crime,Drama",7.0,140434.0,0.0,ERROR:429
+tt1272878,movie,2 Guns,2013.0,"Action,Comedy,Thriller",6.7,231430.0,0.0,TV+
+tt12801262,movie,Luca,2021.0,"Adventure,Animation,Comedy",7.4,208784.0,0.0,ERROR:429
+tt1282140,movie,Easy A,2010.0,"Comedy,Drama,Romance",7.0,430267.0,0.0,ERROR:429
+tt1288558,movie,Evil Dead,2013.0,Horror,6.5,205298.0,0.0,ERROR:429
+tt1307068,movie,Seeking a Friend for the End of the World,2012.0,"Adventure,Comedy,Drama",6.7,121166.0,0.0,ERROR:429
+tt13274016,movie,Reptile,2023.0,"Crime,Drama,Mystery",6.8,102462.0,0.0,ERROR:429
+tt1334260,movie,Never Let Me Go,2010.0,"Drama,Romance",7.1,156343.0,0.0,Disney Plus
+tt13345606,movie,Evil Dead Rise,2023.0,Horror,6.5,154433.0,0.0,"Netflix,blutv,Apple TV"
+tt1340800,movie,Tinker Tailor Soldier Spy,2011.0,"Drama,Mystery,Thriller",7.0,219178.0,0.0,TV+
+tt1343727,movie,Dredd,2012.0,"Action,Crime,Sci-Fi",7.1,303876.0,0.0,ERROR:429
+tt1355630,movie,If I Stay,2014.0,"Drama,Fantasy,Music",6.7,129816.0,0.0,ERROR:429
+tt13560574,movie,X,2022.0,"Horror,Mystery,Thriller",6.5,206083.0,0.0,ERROR:429
+tt1379182,movie,Kynodontas,2009.0,"Drama,Thriller",7.1,116665.0,0.0,ERROR:429
+tt13833688,movie,The Whale,2022.0,Drama,7.6,243488.0,0.0,"Amazon Prime Video,Apple TV"
+tt1385826,movie,The Adjustment Bureau,2011.0,"Crime,Drama,Mystery",7.0,276702.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt1390411,movie,In the Heart of the Sea,2015.0,"Action,Adventure,Biography",6.9,154748.0,0.0,ERROR:429
+tt1398426,movie,Straight Outta Compton,2015.0,"Biography,Drama,History",7.8,226405.0,0.0,ERROR:429
+tt1399683,movie,Winter's Bone,2010.0,"Crime,Drama,Mystery",7.1,154097.0,0.0,ERROR:429
+tt1403981,movie,Remember Me,2010.0,"Drama,Romance",7.1,159091.0,0.0,ERROR:429
+tt1412386,movie,The Best Exotic Marigold Hotel,2011.0,"Comedy,Drama,Romance",7.2,101779.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt14138650,movie,The Pale Blue Eye,2022.0,"Crime,Horror,Mystery",6.6,132569.0,0.0,Netflix
+tt14444726,movie,Tár,2022.0,"Drama,Music",7.4,102911.0,0.0,ERROR:429
+tt1446192,movie,Rise of the Guardians,2012.0,"Action,Adventure,Animation",7.2,200208.0,0.0,"Netflix,TV+"
+tt1457767,movie,The Conjuring,2013.0,"Horror,Mystery,Thriller",7.5,581461.0,0.0,"Apple TV,Apple TV"
+tt14641788,movie,Enola Holmes 2,2022.0,"Action,Adventure,Crime",6.8,109474.0,0.0,Netflix
+tt1465522,movie,Tucker and Dale vs Evil,2010.0,"Comedy,Horror",7.5,200645.0,0.0,ERROR:429
+tt1478338,movie,Bridesmaids,2011.0,Comedy,6.8,316278.0,0.0,ERROR:429
+tt1478964,movie,Attack the Block,2011.0,"Action,Adventure,Comedy",6.7,113418.0,0.0,ERROR:429
+tt14858658,movie,Blink Twice,2024.0,"Mystery,Thriller",6.5,103005.0,0.0,ERROR:429
+tt1488606,movie,Triple Frontier,2019.0,"Action,Thriller",6.5,153200.0,0.0,ERROR:429
+tt1489887,movie,Booksmart,2019.0,Comedy,7.1,135986.0,0.0,Apple TV
+tt14966898,movie,Late Night with the Devil,2023.0,Horror,7.0,121718.0,0.0,ERROR:429
+tt1499658,movie,Horrible Bosses,2011.0,"Comedy,Crime",6.9,478328.0,0.0,"Apple TV,Apple TV"
+tt1502397,movie,Bad Boys for Life,2020.0,"Action,Comedy,Crime",6.5,189703.0,0.0,ERROR:429
+tt1502407,movie,Halloween,2018.0,"Crime,Drama,Horror",6.5,178257.0,0.0,ERROR:429
+tt15097216,movie,Jai Bhim,2021.0,"Crime,Drama",8.7,224613.0,0.0,ERROR:429
+tt15327088,movie,Kantara,2022.0,"Action,Adventure,Drama",8.2,107390.0,0.0,Netflix
+tt1535109,movie,Captain Phillips,2013.0,"Action,Biography,Crime",7.8,506467.0,0.0,"Apple TV,Apple TV"
+tt15354916,movie,Jawan,2023.0,"Action,Crime,Drama",6.9,104208.0,0.0,Netflix
+tt1536537,movie,What Happened to Monday,2017.0,"Action,Crime,Fantasy",6.8,139562.0,0.0,TV+
+tt1547234,movie,Premium Rush,2012.0,"Action,Thriller",6.5,120204.0,0.0,"Netflix,Apple TV,Apple TV"
+tt15474916,movie,Smile,2022.0,"Horror,Mystery,Thriller",6.5,212267.0,0.0,"TV+,Apple TV"
+tt1549572,movie,Another Earth,2011.0,"Drama,Mystery,Romance",6.9,102095.0,0.0,"Apple TV,Apple TV"
+tt1560220,movie,Zombieland: Double Tap,2019.0,"Action,Comedy,Horror",6.7,214508.0,0.0,"Netflix,Apple TV"
+tt1563738,movie,One Day,2011.0,"Drama,Romance",7.0,174257.0,0.0,ERROR:429
+tt1567609,movie,Get the Gringo,2012.0,"Action,Drama,Thriller",6.9,113071.0,0.0,ERROR:429
+tt1568338,movie,Man on a Ledge,2012.0,"Action,Crime,Thriller",6.6,160407.0,0.0,ERROR:429
+tt1568921,movie,Karigurashi no Arietti,2010.0,"Adventure,Animation,Drama",7.6,110438.0,0.0,Netflix
+tt1570728,movie,"Crazy, Stupid, Love.",2011.0,"Comedy,Drama,Romance",7.4,589307.0,0.0,ERROR:429
+tt15791034,movie,Barbarian,2022.0,"Horror,Mystery,Thriller",7.0,217958.0,0.0,ERROR:429
+tt1587310,movie,Maleficent,2014.0,"Action,Adventure,Drama",6.9,412148.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt1588170,movie,Angmareul boatda,2010.0,"Action,Thriller",7.8,155499.0,0.0,ERROR:429
+tt1588173,movie,Warm Bodies,2013.0,"Comedy,Horror,Romance",6.8,249446.0,0.0,"Apple TV,Apple TV"
+tt1591095,movie,Insidious,2010.0,"Horror,Mystery,Thriller",6.8,351770.0,0.0,ERROR:429
+tt1598778,movie,Contagion,2011.0,"Drama,Thriller",6.8,323306.0,0.0,"Apple TV,Apple TV"
+tt1600196,movie,The Drop,2014.0,"Crime,Drama,Mystery",7.0,165789.0,0.0,ERROR:429
+tt1602620,movie,Amour,2012.0,Drama,7.9,108089.0,0.0,Apple TV
+tt1606389,movie,The Vow,2012.0,"Drama,Romance",6.8,209322.0,0.0,ERROR:429
+tt1615147,movie,Margin Call,2011.0,"Drama,Thriller",7.1,152044.0,0.0,TOD TV
+tt1615160,movie,The Foreigner,2017.0,"Action,Crime,Thriller",7.0,127629.0,0.0,ERROR:429
+tt1616195,movie,J. Edgar,2011.0,"Biography,Drama,Romance",6.5,135609.0,0.0,ERROR:429
+tt1632708,movie,Friends with Benefits,2011.0,"Comedy,Romance",6.5,407951.0,0.0,"Netflix,Apple TV,Apple TV"
+tt1636826,movie,Project X,2012.0,Comedy,6.7,244479.0,0.0,ERROR:429
+tt1638002,movie,"Love, Rosie",2014.0,"Comedy,Romance",7.1,161925.0,0.0,ERROR:429
+tt1645170,movie,The Dictator,2012.0,Comedy,6.5,349447.0,0.0,"Apple TV,Apple TV"
+tt1649418,movie,The Gray Man,2022.0,"Action,Mystery,Thriller",6.5,256511.0,0.0,Netflix
+tt1649419,movie,Lo imposible,2012.0,"Drama,History,Thriller",7.5,254969.0,0.0,ERROR:429
+tt1650062,movie,Super 8,2011.0,"Action,Sci-Fi,Thriller",7.0,373485.0,0.0,ERROR:429
+tt1655441,movie,The Age of Adaline,2015.0,"Drama,Fantasy,Romance",7.2,218787.0,0.0,ERROR:429
+tt1661199,movie,Cinderella,2015.0,"Adventure,Drama,Family",6.9,197448.0,0.0,ERROR:429
+tt1682180,movie,Stoker,2013.0,"Drama,Thriller",6.7,116647.0,0.0,"Disney Plus,Apple TV"
+tt1692486,movie,Carnage,2011.0,"Comedy,Drama",7.1,135579.0,0.0,ERROR:429
+tt17024450,movie,The Equalizer 3,2023.0,"Action,Crime,Thriller",6.8,143417.0,0.0,"Amazon Prime Video,TV+,Apple TV,Apple TV"
+tt1706593,movie,Chronicle,2012.0,"Adventure,Drama,Sci-Fi",7.0,269421.0,0.0,ERROR:429
+tt1723811,movie,Shame,2011.0,Drama,7.2,211013.0,0.0,Apple TV
+tt1727388,movie,The Way Way Back,2013.0,"Comedy,Drama",7.4,160034.0,0.0,ERROR:429
+tt17279496,movie,Civil War,2024.0,"Action,Thriller",7.0,234140.0,0.0,"TV+,TOD TV"
+tt1731141,movie,Ender's Game,2013.0,"Action,Adventure,Sci-Fi",6.6,259877.0,0.0,ERROR:429
+tt17351924,movie,Saltburn,2023.0,"Drama,Thriller",7.0,242218.0,0.0,ERROR:429
+tt17526714,movie,The Substance,2024.0,"Drama,Horror,Sci-Fi",7.3,289411.0,0.0,ERROR:429
+tt1781769,movie,Anna Karenina,2012.0,"Drama,Romance",6.6,109442.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt1791528,movie,Inherent Vice,2014.0,"Comedy,Crime,Drama",6.6,113975.0,0.0,"Apple TV,Apple TV"
+tt1798684,movie,Southpaw,2015.0,"Action,Drama,Sport",7.3,267800.0,0.0,ERROR:429
+tt1800241,movie,American Hustle,2013.0,"Crime,Drama",7.2,508975.0,0.0,TV+
+tt1809398,movie,Unbroken,2014.0,"Biography,Drama,Sport",7.2,190212.0,0.0,"Apple TV,Apple TV"
+tt1821549,movie,Nebraska,2013.0,Drama,7.7,126017.0,0.0,ERROR:429
+tt1839492,movie,Ruby Sparks,2012.0,"Comedy,Drama,Fantasy",7.2,106992.0,0.0,ERROR:429
+tt18412256,movie,Alien: Romulus,2024.0,"Horror,Sci-Fi,Thriller",7.1,241025.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt1853739,movie,You're Next,2011.0,"Drama,Horror,Mystery",6.6,114829.0,0.0,ERROR:429
+tt1855199,movie,End of Watch,2012.0,"Action,Crime,Drama",7.6,279926.0,0.0,ERROR:429
+tt1860242,movie,The Highwaymen,2019.0,"Biography,Crime,Drama",6.9,109026.0,0.0,ERROR:429
+tt1860357,movie,Deepwater Horizon,2016.0,"Action,Drama,History",7.1,190686.0,0.0,"TV+,Apple TV"
+tt1872194,movie,The Judge,2014.0,"Crime,Drama,Mystery",7.4,213027.0,0.0,Apple TV
+tt18925334,movie,Pearl,2022.0,"Drama,Horror,Thriller",7.0,137928.0,0.0,ERROR:429
+tt1899353,movie,Serbuan maut,2011.0,"Action,Crime,Thriller",7.6,223109.0,0.0,ERROR:429
+tt1907668,movie,Flight,2012.0,"Drama,Thriller",7.3,385944.0,0.0,ERROR:429
+tt1911644,movie,The Call,2013.0,"Drama,Horror,Thriller",6.7,132101.0,0.0,ERROR:429
+tt1924396,movie,La migliore offerta,2013.0,"Crime,Drama,Mystery",7.8,132778.0,0.0,ERROR:429
+tt1924429,movie,Trance,2013.0,"Crime,Drama,Mystery",6.9,119282.0,0.0,"Disney Plus,Apple TV"
+tt1931533,movie,Seven Psychopaths,2012.0,"Comedy,Crime",7.1,280553.0,0.0,ERROR:429
+tt1935179,movie,Mud,2012.0,"Adventure,Drama",7.4,194057.0,0.0,ERROR:429
+tt1935859,movie,Miss Peregrine's Home for Peculiar Children,2016.0,"Adventure,Drama,Family",6.7,200404.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt1937390,movie,Nymphomaniac: Vol. I,2013.0,Drama,6.9,134893.0,0.0,ERROR:429
+tt1951265,movie,The Hunger Games: Mockingjay - Part 1,2014.0,"Action,Adventure,Sci-Fi",6.6,521946.0,0.0,"Amazon Prime Video,TV+,Apple TV"
+tt1951266,movie,The Hunger Games: Mockingjay - Part 2,2015.0,"Action,Adventure,Sci-Fi",6.6,391473.0,0.0,"Amazon Prime Video,TV+,Apple TV"
+tt1972591,movie,King Arthur: Legend of the Sword,2017.0,"Action,Adventure,Drama",6.7,239711.0,0.0,"Netflix,Apple TV,Apple TV"
+tt1979388,movie,The Good Dinosaur,2015.0,"Action,Adventure,Animation",6.7,133292.0,0.0,"Disney Plus,Apple TV"
+tt1980929,movie,Begin Again,2013.0,"Comedy,Drama,Music",7.4,171399.0,0.0,ERROR:429
+tt1981677,movie,Pitch Perfect,2012.0,"Comedy,Music,Romance",7.1,339785.0,0.0,ERROR:429
+tt2005151,movie,War Dogs,2016.0,"Biography,Comedy,Crime",7.1,275741.0,0.0,ERROR:429
+tt2013293,movie,Kaze tachinu,2013.0,"Animation,Biography,Drama",7.8,105607.0,0.0,Netflix
+tt2024469,movie,Non-Stop,2014.0,"Action,Mystery,Thriller",6.9,281749.0,0.0,ERROR:429
+tt2042568,movie,Inside Llewyn Davis,2013.0,"Drama,Music",7.4,167519.0,0.0,Apple TV
+tt2049403,movie,Beetlejuice Beetlejuice,2024.0,"Comedy,Fantasy,Horror",6.7,145215.0,0.0,"Apple TV,Apple TV"
+tt2053463,movie,Side Effects,2013.0,"Crime,Drama,Mystery",7.1,200790.0,0.0,TV+
+tt2066051,movie,Rocketman,2019.0,"Biography,Drama,Music",7.3,202966.0,0.0,ERROR:429
+tt2080374,movie,Steve Jobs,2015.0,"Biography,Drama",7.2,182996.0,0.0,"Apple TV,Apple TV"
+tt21064584,movie,The Iron Claw,2023.0,"Biography,Drama,Sport",7.6,103174.0,0.0,Amazon Prime Video
+tt21382296,movie,Carry-On,2024.0,"Action,Crime,Thriller",6.5,162045.0,0.0,ERROR:429
+tt2139881,movie,Long Shot,2019.0,"Comedy,Romance",6.8,125430.0,0.0,ERROR:429
+tt2140373,movie,Saving Mr. Banks,2013.0,"Biography,Comedy,Drama",7.5,172690.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt2170593,movie,St. Vincent,2014.0,"Comedy,Drama",7.2,110717.0,0.0,ERROR:429
+tt2199571,movie,Run All Night,2015.0,"Action,Crime,Thriller",6.6,117829.0,0.0,"Apple TV,Apple TV"
+tt22022452,movie,Inside Out 2,2024.0,"Adventure,Animation,Comedy",7.5,213840.0,0.0,ERROR:429
+tt2222042,movie,Love and Monsters,2020.0,"Action,Adventure,Comedy",6.9,152160.0,0.0,Netflix
+tt2224026,movie,Home,2015.0,"Adventure,Animation,Comedy",6.5,115884.0,0.0,"Apple TV,Apple TV"
+tt2226417,movie,Insidious: Chapter 2,2013.0,"Horror,Mystery,Thriller",6.6,195353.0,0.0,"Netflix,Amazon Prime Video,Apple TV,Apple TV"
+tt2241351,movie,Money Monster,2016.0,"Action,Crime,Drama",6.5,109099.0,0.0,ERROR:429
+tt2267968,movie,Kung Fu Panda 3,2016.0,"Action,Adventure,Animation",7.1,202987.0,0.0,ERROR:429
+tt22687790,movie,A Haunting in Venice,2023.0,"Crime,Drama,Horror",6.5,130384.0,0.0,ERROR:429
+tt2277860,movie,Finding Dory,2016.0,"Adventure,Animation,Comedy",7.2,318165.0,0.0,"Disney Plus,Apple TV"
+tt2294449,movie,22 Jump Street,2014.0,"Action,Comedy,Crime",7.0,421250.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt2305051,movie,Wild,2014.0,"Adventure,Biography,Drama",7.1,142721.0,0.0,ERROR:429
+tt2312718,movie,Homefront,2013.0,"Action,Crime,Thriller",6.5,135288.0,0.0,ERROR:429
+tt2321549,movie,The Babadook,2014.0,"Drama,Horror,Mystery",6.8,259747.0,0.0,ERROR:429
+tt2334873,movie,Blue Jasmine,2013.0,"Comedy,Drama,Romance",7.3,215996.0,0.0,ERROR:429
+tt23468450,movie,Longlegs,2024.0,"Crime,Horror,Thriller",6.6,182137.0,0.0,TV+
+tt2381111,movie,Brooklyn,2015.0,"Drama,Romance",7.5,154795.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt2381941,movie,Focus,2015.0,"Comedy,Crime,Drama",6.6,285496.0,0.0,ERROR:429
+tt2386490,movie,How to Train Your Dragon: The Hidden World,2019.0,"Action,Adventure,Animation",7.4,162518.0,0.0,"Apple TV,Apple TV"
+tt2402927,movie,Carol,2015.0,"Drama,Romance",7.3,148144.0,0.0,ERROR:429
+tt2404463,movie,The Heat,2013.0,"Action,Comedy,Crime",6.6,184665.0,0.0,ERROR:429
+tt2406566,movie,Atomic Blonde,2017.0,"Action,Thriller",6.7,213559.0,0.0,"TV+,Apple TV,Apple TV"
+tt2431286,movie,Philomena,2013.0,"Biography,Comedy,Drama",7.6,105494.0,0.0,ERROR:429
+tt2446980,movie,Joy,2015.0,"Biography,Drama",6.6,149118.0,0.0,Netflix
+tt2481498,movie,"Extremely Wicked, Shockingly Evil and Vile",2019.0,"Biography,Crime,Drama",6.7,108621.0,0.0,ERROR:429
+tt2503944,movie,Burnt,2015.0,"Comedy,Drama",6.6,137692.0,0.0,TOD TV
+tt2510894,movie,Hotel Transylvania 2,2015.0,"Adventure,Animation,Comedy",6.6,151866.0,0.0,ERROR:429
+tt2554274,movie,Crimson Peak,2015.0,"Drama,Horror,Mystery",6.5,163162.0,0.0,ERROR:429
+tt2582496,movie,Me and Earl and the Dying Girl,2015.0,"Comedy,Drama",7.7,141867.0,0.0,"Apple TV,Apple TV"
+tt2631186,movie,Bãhubali: The Beginning,2015.0,"Action,Drama",8.0,144137.0,0.0,ERROR:429
+tt2674426,movie,Me Before You,2016.0,"Drama,Romance",7.4,308211.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt2709768,movie,The Secret Life of Pets,2016.0,"Adventure,Animation,Comedy",6.5,226477.0,0.0,"Netflix,Amazon Prime Video,Apple TV,Apple TV"
+tt2719848,movie,Everest,2015.0,"Adventure,Biography,Drama",7.1,239520.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt2737304,movie,Bird Box,2018.0,"Horror,Mystery,Sci-Fi",6.6,404692.0,0.0,Netflix
+tt2798920,movie,Annihilation,2018.0,"Adventure,Drama,Horror",6.8,377732.0,0.0,ERROR:429
+tt2854926,movie,Tag,2018.0,"Action,Comedy",6.5,154660.0,0.0,ERROR:429
+tt28607951,movie,Anora,2024.0,"Comedy,Drama,Romance",7.5,170699.0,0.0,"Apple TV,Apple TV"
+tt2873282,movie,Red Sparrow,2018.0,"Action,Drama,Thriller",6.6,210579.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt2883512,movie,Chef,2014.0,"Adventure,Comedy,Drama",7.3,241186.0,0.0,MUBI
+tt2884206,movie,I Origins,2014.0,"Drama,Mystery,Romance",7.3,136937.0,0.0,"Apple TV,Apple TV"
+tt29268110,movie,Smile 2,2024.0,"Horror,Mystery,Thriller",6.7,100033.0,0.0,ERROR:429
+tt2935510,movie,Ad Astra,2019.0,"Adventure,Drama,Mystery",6.5,269406.0,0.0,ERROR:429
+tt2953050,movie,Encanto,2021.0,"Animation,Comedy,Family",7.2,279961.0,0.0,ERROR:429
+tt2980592,movie,The Guest,2014.0,"Action,Mystery,Thriller",6.7,111190.0,0.0,ERROR:429
+tt3065204,movie,The Conjuring 2,2016.0,"Horror,Mystery,Thriller",7.3,316931.0,0.0,ERROR:429
+tt3079380,movie,Spy,2015.0,"Action,Comedy",7.0,267027.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt3104988,movie,Crazy Rich Asians,2018.0,"Comedy,Drama,Romance",6.9,200109.0,0.0,ERROR:429
+tt3228774,movie,Cruella,2021.0,"Adventure,Comedy,Crime",7.3,280079.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt3235888,movie,It Follows,2014.0,"Horror,Mystery,Thriller",6.8,285601.0,0.0,ERROR:429
+tt3289956,movie,The Autopsy of Jane Doe,2016.0,"Horror,Mystery,Thriller",6.8,152438.0,0.0,ERROR:429
+tt3322364,movie,Concussion,2015.0,"Biography,Drama,Sport",7.1,102687.0,0.0,Apple TV
+tt3420504,movie,Finch,2021.0,"Adventure,Drama,Sci-Fi",6.9,104176.0,0.0,ERROR:429
+tt3470600,movie,Sing,2016.0,"Animation,Comedy,Family",7.1,201797.0,0.0,ERROR:429
+tt3488710,movie,The Walk,2015.0,"Adventure,Biography,Drama",7.3,138331.0,0.0,Apple TV
+tt3521126,movie,The Disaster Artist,2017.0,"Biography,Comedy,Drama",7.3,168054.0,0.0,Apple TV
+tt3521164,movie,Moana,2016.0,"Adventure,Animation,Comedy",7.6,412220.0,0.0,ERROR:429
+tt3531824,movie,Nerve,2016.0,"Adventure,Crime,Drama",6.5,143766.0,0.0,ERROR:429
+tt3544112,movie,Sing Street,2016.0,"Comedy,Drama,Music",7.9,104292.0,0.0,ERROR:429
+tt3569230,movie,Legend,2015.0,"Biography,Crime,Drama",6.9,212829.0,0.0,ERROR:429
+tt3581652,movie,West Side Story,2021.0,"Crime,Drama,Musical",7.1,101204.0,0.0,ERROR:429
+tt3606752,movie,Cars 3,2017.0,"Adventure,Animation,Comedy",6.7,134786.0,0.0,ERROR:429
+tt3631112,movie,The Girl on the Train,2016.0,"Crime,Drama,Mystery",6.5,205067.0,0.0,ERROR:429
+tt3704428,movie,Elvis,2022.0,"Biography,Drama,Music",7.3,249682.0,0.0,"Apple TV,Apple TV"
+tt3748172,movie,Gerald's Game,2017.0,"Drama,Horror,Thriller",6.5,135508.0,0.0,ERROR:429
+tt3766354,movie,The Equalizer 2,2018.0,"Action,Crime,Mystery",6.7,213670.0,0.0,ERROR:429
+tt3774114,movie,Snowden,2016.0,"Biography,Crime,Drama",7.3,167912.0,0.0,"TV+,Apple TV"
+tt3846674,movie,To All the Boys I've Loved Before,2018.0,"Comedy,Drama,Romance",7.0,131724.0,0.0,Netflix
+tt3863552,movie,Bajrangi Bhaijaan,2015.0,"Action,Adventure,Comedy",8.1,103815.0,0.0,ERROR:429
+tt4062536,movie,Green Room,2015.0,"Crime,Horror,Music",7.0,147551.0,0.0,ERROR:429
+tt4172430,movie,13 Hours: The Secret Soldiers of Benghazi,2016.0,"Action,Drama,History",7.3,170667.0,0.0,"Apple TV,Apple TV"
+tt4178092,movie,The Gift,2015.0,"Drama,Mystery,Thriller",7.0,178962.0,0.0,Netflix
+tt4196776,movie,Jason Bourne,2016.0,"Action,Thriller",6.6,249523.0,0.0,ERROR:429
+tt4209788,movie,Molly's Game,2017.0,"Biography,Crime,Drama",7.4,196335.0,0.0,TOD TV
+tt4218572,movie,Widows,2018.0,"Crime,Drama,Thriller",6.8,106581.0,0.0,ERROR:429
+tt4263482,movie,The VVitch: A New-England Folktale,2015.0,"Drama,Fantasy,Horror",7.0,329757.0,0.0,ERROR:429
+tt4276820,movie,The Founder,2016.0,"Biography,Drama",7.2,191003.0,0.0,ERROR:429
+tt4302938,movie,Kubo and the Two Strings,2016.0,"Action,Adventure,Animation",7.7,142434.0,0.0,ERROR:429
+tt4332232,movie,Fractured,2019.0,"Drama,Mystery,Thriller",6.5,102742.0,0.0,Netflix
+tt4364194,movie,The Peanut Butter Falcon,2019.0,"Adventure,Comedy,Drama",7.6,113091.0,0.0,Apple TV
+tt4468740,movie,Paddington 2,2017.0,"Adventure,Comedy,Family",7.8,104788.0,0.0,TV+
+tt4495098,movie,Gran Turismo,2023.0,"Action,Adventure,Drama",7.1,118957.0,0.0,"Amazon Prime Video,TV+,Apple TV,Apple TV"
+tt4520988,movie,Frozen II,2019.0,"Adventure,Animation,Comedy",6.8,206364.0,0.0,ERROR:429
+tt4572514,movie,Patriots Day,2016.0,"Action,Crime,Drama",7.3,117720.0,0.0,Apple TV
+tt4630562,movie,The Fate of the Furious,2017.0,"Action,Crime,Thriller",6.6,263292.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt4633690,movie,Shot Caller,2017.0,"Crime,Drama,Thriller",7.3,107091.0,0.0,ERROR:429
+tt4682786,movie,Collateral Beauty,2016.0,"Drama,Romance",6.8,107253.0,0.0,"Apple TV,Apple TV"
+tt4686844,movie,The Death of Stalin,2017.0,"Comedy,Drama,History",7.3,119706.0,0.0,ERROR:429
+tt4698684,movie,Hunt for the Wilderpeople,2016.0,"Adventure,Comedy,Drama",7.8,147403.0,0.0,ERROR:429
+tt4777008,movie,Maleficent: Mistress of Evil,2019.0,"Adventure,Drama,Family",6.6,125270.0,0.0,"Disney Plus,Apple TV"
+tt4849438,movie,Bãhubali 2: The Conclusion,2017.0,"Action,Drama",8.2,122693.0,0.0,Netflix
+tt4873118,movie,The Covenant,2023.0,"Action,Drama,Thriller",7.5,187181.0,0.0,ERROR:429
+tt5052474,movie,Sicario: Day of the Soldado,2018.0,"Action,Crime,Drama",7.1,178124.0,0.0,ERROR:429
+tt5104604,movie,Isle of Dogs,2018.0,"Adventure,Animation,Comedy",7.8,198962.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt5109280,movie,Raya and the Last Dragon,2021.0,"Action,Adventure,Animation",7.3,179939.0,0.0,ERROR:429
+tt5109784,movie,Mother!,2017.0,"Drama,Horror,Mystery",6.6,258585.0,0.0,ERROR:429
+tt5140878,movie,Annabelle: Creation,2017.0,"Horror,Mystery,Thriller",6.5,158467.0,0.0,ERROR:429
+tt5164432,movie,"Love, Simon",2018.0,"Comedy,Drama,Romance",7.5,130262.0,0.0,"Apple TV,Apple TV"
+tt5177120,movie,The Ministry of Ungentlemanly Warfare,2024.0,"Action,Comedy,War",6.8,133188.0,0.0,Amazon Prime Video
+tt5323662,movie,Koe no katachi,2016.0,"Animation,Drama",8.1,118014.0,0.0,ERROR:429
+tt5362988,movie,Wind River,2017.0,"Crime,Drama,Mystery",7.7,294857.0,0.0,ERROR:429
+tt5442430,movie,Life,2017.0,"Horror,Sci-Fi,Thriller",6.6,266456.0,0.0,"Netflix,Apple TV"
+tt5606664,movie,Doctor Sleep,2019.0,"Drama,Fantasy,Horror",7.3,230687.0,0.0,ERROR:429
+tt5649144,movie,The Florida Project,2017.0,Drama,7.6,138705.0,0.0,Apple TV
+tt5700672,movie,Busanhaeng,2016.0,"Action,Horror,Thriller",7.6,281631.0,0.0,Apple TV
+tt5715874,movie,The Killing of a Sacred Deer,2017.0,"Drama,Horror,Mystery",7.0,203034.0,0.0,Apple TV
+tt5742374,movie,You Were Never Really Here,2017.0,"Crime,Drama,Thriller",6.7,131528.0,0.0,ERROR:429
+tt5813916,movie,Dag II,2016.0,"Action,Drama,War",8.2,111444.0,0.0,ERROR:429
+tt5848272,movie,Ralph Breaks the Internet,2018.0,"Adventure,Animation,Comedy",7.0,193763.0,0.0,"Disney Plus,Apple TV"
+tt5971474,movie,The Little Mermaid,2023.0,"Adventure,Family,Fantasy",7.2,169884.0,0.0,ERROR:429
+tt6048922,movie,Greyhound,2020.0,"Drama,History,War",7.0,123039.0,0.0,ERROR:429
+tt6105098,movie,The Lion King,2019.0,"Adventure,Animation,Drama",6.8,281692.0,0.0,ERROR:429
+tt6139732,movie,Aladdin,2019.0,"Adventure,Comedy,Family",6.9,302082.0,0.0,"Disney Plus,Apple TV"
+tt6292852,movie,I Am Mother,2019.0,"Drama,Mystery,Sci-Fi",6.7,102740.0,0.0,Netflix
+tt6412452,movie,The Ballad of Buster Scruggs,2018.0,"Comedy,Drama,Musical",7.2,175653.0,0.0,Netflix
+tt6628394,movie,Bad Times at the El Royale,2018.0,"Crime,Drama,Mystery",7.1,172135.0,0.0,ERROR:429
+tt6806448,movie,Fast & Furious Presents: Hobbs & Shaw,2019.0,"Action,Adventure,Thriller",6.5,247001.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt6911608,movie,Mamma Mia! Here We Go Again,2018.0,"Comedy,Musical,Romance",6.6,114936.0,0.0,"Apple TV,Apple TV"
+tt7040874,movie,A Simple Favor,2018.0,"Comedy,Crime,Mystery",6.8,175317.0,0.0,"blutv,Apple TV"
+tt7144666,movie,The Black Phone,2021.0,"Horror,Mystery,Thriller",6.9,224375.0,0.0,ERROR:429
+tt7146812,movie,Onward,2020.0,"Adventure,Animation,Comedy",7.4,178348.0,0.0,ERROR:429
+tt7395114,movie,The Devil All the Time,2020.0,"Crime,Drama,Thriller",7.1,160827.0,0.0,ERROR:429
+tt7401588,movie,Instant Family,2018.0,"Comedy,Drama",7.3,126765.0,0.0,"Apple TV,Apple TV"
+tt7405458,movie,A Man Called Otto,2022.0,"Comedy,Drama",7.5,190692.0,0.0,"TOD TV,Apple TV,Apple TV"
+tt7456310,movie,Anna,2019.0,"Action,Thriller",6.7,101907.0,0.0,ERROR:429
+tt7556122,movie,The Old Guard,2020.0,"Action,Thriller",6.7,191380.0,0.0,Netflix
+tt7740496,movie,Nightmare Alley,2021.0,"Crime,Drama,Thriller",7.0,174367.0,0.0,"Disney Plus,Amazon Prime Video,Apple TV,Apple TV"
+tt7798634,movie,Ready or Not,2019.0,"Action,Comedy,Horror",6.8,212589.0,0.0,ERROR:429
+tt7975244,movie,Jumanji: The Next Level,2019.0,"Action,Adventure,Comedy",6.6,301425.0,0.0,ERROR:429
+tt7984734,movie,The Lighthouse,2019.0,"Drama,Fantasy,Horror",7.4,280601.0,0.0,ERROR:429
+tt8009428,movie,Hustle,2022.0,"Comedy,Drama,Sport",7.3,153746.0,0.0,Netflix
+tt8079248,movie,Yesterday,2019.0,"Comedy,Fantasy,Music",6.8,175458.0,0.0,ERROR:429
+tt8097030,movie,Turning Red,2022.0,"Adventure,Animation,Comedy",6.9,163921.0,0.0,ERROR:429
+tt8110330,movie,Dil Bechara,2020.0,"Comedy,Drama,Romance",8.3,136099.0,0.0,ERROR:429
+tt8178634,movie,RRR (Rise Roar Revolt),2022.0,"Action,Adventure,Drama",7.8,177548.0,0.0,ERROR:429
+tt8228288,movie,El hoyo,2019.0,"Horror,Mystery,Sci-Fi",7.0,305153.0,0.0,Netflix
+tt8244784,movie,The Hunt,2020.0,"Action,Horror,Thriller",6.6,142698.0,0.0,"Netflix,Apple TV,Apple TV"
+tt8332922,movie,A Quiet Place Part II,2020.0,"Drama,Horror,Sci-Fi",7.2,302021.0,0.0,ERROR:429
+tt8580274,movie,Eurovision Song Contest: The Story of Fire Saga,2020.0,"Comedy,Music",6.5,105880.0,0.0,Netflix
+tt8633478,movie,Run,2020.0,"Drama,Horror,Mystery",6.7,104477.0,0.0,"Amazon Prime Video,Apple TV,Apple TV"
+tt8847712,movie,"The French Dispatch of the Liberty, Kansas Evening Sun",2021.0,"Comedy,Drama,Romance",7.1,158270.0,0.0,"Disney Plus,Apple TV,Apple TV"
+tt8936646,movie,Extraction,2020.0,"Action,Crime,Thriller",6.8,276666.0,0.0,ERROR:429
+tt9071322,movie,Dark Waters,2019.0,"Biography,Drama,History",7.6,114878.0,0.0,"TV+,Apple TV"
+tt9218128,movie,Gladiator II,2024.0,"Action,Adventure,Drama",6.5,222658.0,0.0,ERROR:429
+tt9411972,movie,Where the Crawdads Sing,2022.0,"Drama,Mystery,Romance",7.2,144905.0,0.0,"TOD TV,Apple TV,Apple TV"
+tt9620288,movie,King Richard,2021.0,"Biography,Drama,Sport",7.5,146140.0,0.0,ERROR:429

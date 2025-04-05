@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+*.tsv
+*.gz
 
 # Distribution / packaging
 .Python
@@ -22,6 +24,7 @@ var/
 wheels/
 share/python-wheels/
 *.egg-info/
+.streamlit/
 .installed.cfg
 *.egg
 MANIFEST
